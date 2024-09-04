@@ -4,10 +4,6 @@
   <unicode hex="EF04"/>
   <anchor x="-359" y="868" name="stacking"/>
   <anchor x="-92" y="624" name="_right"/>
-  <key>note</key>
-  <string>COMBINING KAVYKA ABOVE RIGHT
-Used by Syrnikov as a Typicon symbol
-Proposed for inclusion</string>
   <outline>
     <contour>
       <point x="10" y="761" type="line" smooth="yes"/>

@@ -2,8 +2,6 @@
 <glyph name="uniEF37" format="2">
   <advance width="500"/>
   <unicode hex="EF37"/>
-  <key>note</key>
-  <string>Incomplete glyph</string>
   <outline>
     <contour>
       <point x="227" y="367" type="line"/>

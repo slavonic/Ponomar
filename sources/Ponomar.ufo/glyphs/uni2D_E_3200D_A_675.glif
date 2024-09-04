@@ -3,8 +3,6 @@
   <advance width="0"/>
   <unicode hex="F0023"/>
   <anchor x="-247" y="538" name="_Diacritic"/>
-  <key>note</key>
-  <string>This codepoint is unstable!</string>
   <outline>
     <contour>
       <point x="-43" y="531" type="line"/>

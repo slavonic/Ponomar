@@ -5,8 +5,6 @@
   <anchor x="-212" y="670.3" name="stacking"/>
   <anchor x="-217" y="537.7" name="_Diacritic"/>
   <anchor x="-216.722" y="536.7" name="_stacking"/>
-  <key>note</key>
-  <string>Used for Yakut</string>
   <outline>
     <contour>
       <point x="-34" y="575" type="line"/>

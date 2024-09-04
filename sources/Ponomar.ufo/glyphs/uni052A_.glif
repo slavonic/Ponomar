@@ -6,8 +6,6 @@
   <anchor x="1330" y="833.6" name="Yerok"/>
   <anchor x="1448.5" y="833.4" name="DoubleTitlo"/>
   <anchor x="1158" y="833.6" name="HalfMark"/>
-  <key>note</key>
-  <string>Used for Yakut</string>
   <outline>
     <contour>
       <point x="825" y="426" type="line"/>

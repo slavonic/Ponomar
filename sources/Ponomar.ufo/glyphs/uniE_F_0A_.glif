@@ -3,10 +3,6 @@
   <advance width="450"/>
   <unicode hex="EF0A"/>
   <anchor x="228" y="396" name="Numeral"/>
-  <key>note</key>
-  <string>DOWNWARD FACING HOOK WITH NOTCH
-Used by Syrnikov as a Typicon symbol
-Proposed for encoding</string>
   <outline>
     <contour>
       <point x="93" y="94" type="line" smooth="yes"/>

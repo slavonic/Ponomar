@@ -3,10 +3,6 @@
   <advance width="450"/>
   <unicode hex="EF09"/>
   <anchor x="228" y="396" name="Numeral"/>
-  <key>note</key>
-  <string>DOWNWARD FACING HOOK 
-Used by Syrnikov as a Typicon symbol
-Proposed for encoding</string>
   <outline>
     <contour>
       <point x="172" y="585" type="curve"/>

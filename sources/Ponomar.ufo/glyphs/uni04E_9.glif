@@ -10,8 +10,6 @@
   <anchor x="300" y="539" name="Yerok"/>
   <anchor x="243" y="219" name="Numeral"/>
   <anchor x="259" y="539" name="Diacritic"/>
-  <key>note</key>
-  <string>Used in modern Yakut</string>
   <outline>
     <contour>
       <point x="150" y="190" type="line"/>

@@ -6,8 +6,6 @@
   <anchor x="683.5" y="830.4" name="DoubleTitlo"/>
   <anchor x="480" y="830.6" name="Yerok"/>
   <anchor x="341" y="830" name="Diacritic"/>
-  <key>note</key>
-  <string>Used in Aleut</string>
   <outline>
     <contour>
       <point x="399" y="411" type="curve"/>

@@ -9,9 +9,6 @@
   <anchor x="366.5" y="1" name="below"/>
   <anchor x="636.5" y="459" name="Yerok"/>
   <anchor x="368" y="460" name="Diacritic"/>
-  <key>note</key>
-  <string>DOUBLE-ENDED MULTIMAP
-Used by Syrnikov as a symbol for a double service</string>
   <outline>
     <contour>
       <point x="253" y="254" type="curve" smooth="yes"/>

@@ -2,8 +2,6 @@
 <glyph name="u1F540.bmp" format="2">
   <advance width="789"/>
   <unicode hex="F400"/>
-  <key>note</key>
-  <string>Duplicates of Typicon symbols in BMP for legacy app support</string>
   <outline>
     <contour>
       <point x="393" y="769" type="curve" smooth="yes"/>

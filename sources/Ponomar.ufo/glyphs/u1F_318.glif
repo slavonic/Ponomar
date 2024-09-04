@@ -2,8 +2,6 @@
 <glyph name="u1F318" format="2">
   <advance width="836"/>
   <unicode hex="1F318"/>
-  <key>note</key>
-  <string>Used in liturgical calendars</string>
   <outline>
     <contour>
       <point x="816" y="400" type="curve" smooth="yes"/>

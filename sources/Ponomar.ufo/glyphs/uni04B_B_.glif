@@ -4,8 +4,6 @@
   <unicode hex="04BB"/>
   <anchor x="63.7778" y="591.8" name="left"/>
   <anchor x="355" y="593.6" name="right"/>
-  <key>note</key>
-  <string>Used in modern Yakut</string>
   <outline>
     <contour>
       <point x="169" y="303" type="curve" smooth="yes"/>

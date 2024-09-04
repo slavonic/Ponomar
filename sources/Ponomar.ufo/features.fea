@@ -384,9 +384,9 @@ lookup CyrillicZWJbasedLigatures {
     sub \uni2DE4 \uni200D \uni2DF7  by \uni2DE4200D2DF7;
     sub \uni0430 \uni200D \uni0443  by \uni0430200D0443;
     sub \uni043B \uni200D \uni0443  by \uni043B200D0443;
-    sub \uni1C85 \uni200D \uni0432  by \uni0442200D0432;
-    sub \uni1C84 \uni200D \uni0432  by \uni0442200D0432;
     sub \uni0442 \uni200D \uni0432  by \uni0442200D0432;
+    sub \uni1C84 \uni200D \uni0432  by \uni0442200D0432;
+    sub \uni1C85 \uni200D \uni0432  by \uni0442200D0432;
 } CyrillicZWJbasedLigatures;
 
 lookup saltStylisticAlternatives {

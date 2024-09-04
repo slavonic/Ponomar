@@ -5,8 +5,6 @@
   <anchor x="-186" y="528" name="_stacking"/>
   <anchor x="-165" y="865" name="stacking"/>
   <anchor x="-186.208" y="527.417" name="_Diacritic"/>
-  <key>note</key>
-  <string>This character is proposed for inclusion in Unicode 8.0.</string>
   <outline>
     <contour>
       <point x="-56" y="652" type="curve" smooth="yes"/>

@@ -3,8 +3,6 @@
   <advance width="0"/>
   <unicode hex="0332"/>
   <anchor x="-338" y="-26" name="_below"/>
-  <key>note</key>
-  <string>Used as a Typicon symbol by Syrnikov</string>
   <outline>
     <contour>
       <point x="-50" y="-96" type="line"/>

@@ -2,10 +2,6 @@
 <glyph name="uniEF00" format="2">
   <advance width="380"/>
   <unicode hex="EF00"/>
-  <key>note</key>
-  <string>INVERTED LOW KAVYKA
-Used by Syrnikov as a Typicon symbol
-Proposed for encoding</string>
   <outline>
     <contour>
       <point x="190" y="242" type="curve" smooth="yes"/>

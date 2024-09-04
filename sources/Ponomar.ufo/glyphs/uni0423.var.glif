@@ -6,9 +6,6 @@
   <anchor x="714" y="830.4" name="DoubleTitlo"/>
   <anchor x="550" y="827.6" name="Yerok"/>
   <anchor x="365" y="829" name="Diacritic"/>
-  <key>note</key>
-  <string>Variant of U+0423 that looks like U+A64A
-</string>
   <outline>
     <component base="uniA64A"/>
   </outline>

@@ -3,10 +3,6 @@
   <advance width="0"/>
   <unicode hex="EF07"/>
   <anchor x="-330" y="1" name="_below"/>
-  <key>note</key>
-  <string>COMBINING INVERTED TORTOISE SHELL BRACKET BELOW
-Used by Syrnikov as a Typicon symbol
-Proposed for inclusion.</string>
   <outline>
     <contour>
       <point x="-560" y="-126" type="line"/>

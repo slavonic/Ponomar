@@ -2,8 +2,6 @@
 <glyph name="uni2E43" format="2">
   <advance width="390"/>
   <unicode hex="2E43"/>
-  <key>note</key>
-  <string>This character is proposed for inclusion in Unicode 8.0.</string>
   <outline>
     <contour>
       <point x="687" y="298" type="curve" smooth="yes"/>

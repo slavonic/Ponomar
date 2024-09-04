@@ -8,8 +8,6 @@
   <anchor x="238.5" y="538.7" name="HalfMark"/>
   <anchor x="80.7778" y="535.8" name="left"/>
   <anchor x="455" y="536.2" name="right"/>
-  <key>note</key>
-  <string>Used in modern Yakut</string>
   <outline>
     <contour>
       <point x="293" y="0" type="line"/>

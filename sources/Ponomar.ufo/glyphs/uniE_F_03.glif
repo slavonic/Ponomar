@@ -2,10 +2,6 @@
 <glyph name="uniEF03" format="2">
   <advance width="380"/>
   <unicode hex="EF03"/>
-  <key>note</key>
-  <string>LOW KAVYKA WITH DOT
-Used by Syrnikov as a Typicon symbol
-Proposed for encoding</string>
   <outline>
     <contour>
       <point x="144" y="256" type="curve" smooth="yes"/>

@@ -10,8 +10,6 @@
   <anchor x="750" y="536.2" name="right"/>
   <anchor x="119.778" y="535.8" name="left"/>
   <anchor x="507" y="-199" name="below"/>
-  <key>note</key>
-  <string>Used for Yakut</string>
   <outline>
     <contour>
       <point x="551" y="268" type="curve" smooth="yes"/>

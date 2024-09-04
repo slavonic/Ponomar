@@ -3,10 +3,6 @@
   <advance width="0"/>
   <unicode hex="EF0B"/>
   <anchor x="-226" y="406" name="_Numeral"/>
-  <key>note</key>
-  <string>COMBINING DOT OVERLAY
-Used by Syrnikov to form Typicon symbols
-Proposed for inclusion</string>
   <outline>
     <contour>
       <point x="-279" y="406" type="curve" smooth="yes"/>

@@ -6,8 +6,6 @@
   <anchor x="588.5" y="830.4" name="DoubleTitlo"/>
   <anchor x="425" y="829.6" name="Yerok"/>
   <anchor x="341" y="830" name="Diacritic"/>
-  <key>note</key>
-  <string>Used in modern Yakut</string>
   <outline>
     <contour>
       <point x="402" y="431" type="line"/>

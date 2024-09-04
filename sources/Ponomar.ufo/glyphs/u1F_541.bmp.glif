@@ -6,8 +6,6 @@
   <anchor x="404" y="799" name="HalfMark"/>
   <anchor x="627.5" y="705.5" name="Yerok"/>
   <anchor x="626" y="708" name="Diacritic"/>
-  <key>note</key>
-  <string>Duplicates of Typicon symbols in BMP for legacy app support</string>
   <outline>
     <contour>
       <point x="789" y="383" type="line"/>

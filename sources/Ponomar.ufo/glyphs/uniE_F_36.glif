@@ -2,8 +2,6 @@
 <glyph name="uniEF36" format="2">
   <advance width="448"/>
   <unicode hex="EF36"/>
-  <key>note</key>
-  <string>Stopped at 347 in 252</string>
   <outline>
     <contour>
       <point x="138" y="189" type="curve" smooth="yes"/>

@@ -2,10 +2,6 @@
 <glyph name="uniEF08" format="2">
   <advance width="306"/>
   <unicode hex="EF08"/>
-  <key>note</key>
-  <string>U+2E44 DOUBLE COMMA
-Used as a Typicon symbol by Syrnikov
-This character is proposed for inclusion.</string>
   <outline>
     <contour>
       <point x="184" y="372" type="curve" smooth="yes"/>

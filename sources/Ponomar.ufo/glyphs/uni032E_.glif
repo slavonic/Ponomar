@@ -3,8 +3,6 @@
   <advance width="0"/>
   <unicode hex="032E"/>
   <anchor x="-246" y="-25" name="_below"/>
-  <key>note</key>
-  <string>Used by Syrnikov as a Typicon symbol</string>
   <outline>
     <contour>
       <point x="-245" y="-158" type="curve" smooth="yes"/>

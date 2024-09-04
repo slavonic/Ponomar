@@ -9,8 +9,6 @@
   <anchor x="350" y="539" name="Yerok"/>
   <anchor x="255" y="538.7" name="Diacritic"/>
   <anchor x="247" y="233" name="Numeral"/>
-  <key>note</key>
-  <string>Used in Aleut</string>
   <outline>
     <contour>
       <point x="320" y="341" type="curve" smooth="yes"/>
