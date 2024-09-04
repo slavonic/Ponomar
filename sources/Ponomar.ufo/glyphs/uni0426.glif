@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0426" format="2">
+  <advance width="674"/>
+  <unicode hex="0426"/>
+  <anchor x="354" y="828.6" name="HalfMark"/>
+  <anchor x="674.5" y="830.4" name="DoubleTitlo"/>
+  <anchor x="475" y="827.6" name="Yerok"/>
+  <anchor x="326" y="829" name="Diacritic"/>
+  <outline>
+    <contour>
+      <point x="633" y="-120" type="line"/>
+      <point x="586" y="-162"/>
+      <point x="447" y="-236"/>
+      <point x="380" y="-267" type="curve"/>
+      <point x="346" y="-241"/>
+      <point x="225" y="-158"/>
+      <point x="174" y="-131" type="curve"/>
+      <point x="154" y="-145"/>
+      <point x="136" y="-161"/>
+      <point x="118" y="-177" type="curve"/>
+      <point x="112" y="-173"/>
+      <point x="107" y="-165"/>
+      <point x="103" y="-159" type="curve"/>
+      <point x="128" y="-131"/>
+      <point x="191" y="-79"/>
+      <point x="231" y="-52" type="curve"/>
+      <point x="286" y="-75"/>
+      <point x="416" y="-167"/>
+      <point x="461" y="-199" type="curve"/>
+      <point x="477" y="-190"/>
+      <point x="508" y="-173"/>
+      <point x="526" y="-162" type="curve"/>
+      <point x="526" y="0" type="line"/>
+      <point x="55" y="0" type="line"/>
+      <point x="55" y="24" type="line"/>
+      <point x="115" y="24" type="line"/>
+      <point x="115" y="746" type="line"/>
+      <point x="55" y="746" type="line"/>
+      <point x="55" y="770" type="line"/>
+      <point x="295" y="770" type="line"/>
+      <point x="295" y="746" type="line"/>
+      <point x="235" y="746" type="line"/>
+      <point x="235" y="24" type="line"/>
+      <point x="429" y="24" type="line"/>
+      <point x="429" y="746" type="line"/>
+      <point x="369" y="746" type="line"/>
+      <point x="369" y="770" type="line"/>
+      <point x="609" y="770" type="line"/>
+      <point x="609" y="746" type="line"/>
+      <point x="549" y="746" type="line"/>
+      <point x="549" y="24" type="line"/>
+      <point x="633" y="24" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-177</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>24</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>746</integer>
+            <key>width</key>
+            <integer>24</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>115</integer>
+            <key>width</key>
+            <integer>120</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>429</integer>
+            <key>width</key>
+            <integer>120</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>526</integer>
+            <key>width</key>
+            <integer>107</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

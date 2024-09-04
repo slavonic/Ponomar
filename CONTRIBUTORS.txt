@@ -8,3 +8,7 @@
 #
 # Names should be added to this file as:
 # Name <email address>
+Aleksandr Andreev <aleksandr.andreev@gmail.com>
+Nikita Simmons <starina77@yahoo.com>
+Vlad Dorosh <irmologion@narod.ru>
+Michael Ivanovich <mixayilax@yahoo.ca>

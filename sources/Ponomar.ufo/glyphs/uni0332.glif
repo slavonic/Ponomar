@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0332" format="2">
+  <advance width="0"/>
+  <unicode hex="0332"/>
+  <anchor x="-338" y="-26" name="_below"/>
+  <key>note</key>
+  <string>Used as a Typicon symbol by Syrnikov</string>
+  <outline>
+    <contour>
+      <point x="-50" y="-96" type="line"/>
+      <point x="-50" y="-126" type="line"/>
+      <point x="-612" y="-126" type="line"/>
+      <point x="-616" y="-110" type="line"/>
+      <point x="-613" y="-94" type="line"/>
+      <point x="-509" y="-94"/>
+      <point x="-311" y="-96"/>
+      <point x="-311" y="-96" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-126</integer>
+            <key>width</key>
+            <integer>30</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

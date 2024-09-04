@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEF07" format="2">
+  <advance width="0"/>
+  <unicode hex="EF07"/>
+  <anchor x="-330" y="1" name="_below"/>
+  <key>note</key>
+  <string>COMBINING INVERTED TORTOISE SHELL BRACKET BELOW
+Used by Syrnikov as a Typicon symbol
+Proposed for inclusion.</string>
+  <outline>
+    <contour>
+      <point x="-560" y="-126" type="line"/>
+      <point x="-593" y="-100"/>
+      <point x="-629" y="-73"/>
+      <point x="-662" y="-46" type="curve"/>
+      <point x="-662" y="-30"/>
+      <point x="-662" y="-16"/>
+      <point x="-662" y="0" type="curve"/>
+      <point x="-629" y="-27"/>
+      <point x="-594" y="-53"/>
+      <point x="-561" y="-79" type="curve"/>
+      <point x="-457" y="-79"/>
+      <point x="-311" y="-80"/>
+      <point x="-311" y="-80" type="curve"/>
+      <point x="-111" y="-80" type="line"/>
+      <point x="-78" y="-54"/>
+      <point x="-43" y="-27"/>
+      <point x="-10" y="0" type="curve"/>
+      <point x="-10" y="-15"/>
+      <point x="-10" y="-29"/>
+      <point x="-10" y="-44" type="curve"/>
+      <point x="-43" y="-71"/>
+      <point x="-78" y="-100"/>
+      <point x="-111" y="-126" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-126</integer>
+            <key>width</key>
+            <integer>46</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>-46</integer>
+            <key>width</key>
+            <integer>46</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

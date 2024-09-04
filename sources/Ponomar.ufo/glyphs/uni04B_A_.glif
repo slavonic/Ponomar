@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni04BA" format="2">
+  <advance width="581"/>
+  <unicode hex="04BA"/>
+  <anchor x="298" y="830" name="Diacritic"/>
+  <anchor x="447" y="827.6" name="Yerok"/>
+  <anchor x="580.5" y="830.4" name="DoubleTitlo"/>
+  <anchor x="310" y="829.6" name="HalfMark"/>
+  <key>note</key>
+  <string>Used in modern Yakut</string>
+  <outline>
+    <contour>
+      <point x="390" y="364" type="line"/>
+      <point x="328" y="386"/>
+      <point x="250" y="417"/>
+      <point x="192" y="445" type="curve"/>
+      <point x="192" y="24" type="line"/>
+      <point x="252" y="24" type="line"/>
+      <point x="252" y="0" type="line"/>
+      <point x="12" y="0" type="line"/>
+      <point x="12" y="24" type="line"/>
+      <point x="72" y="24" type="line"/>
+      <point x="72" y="750" type="line"/>
+      <point x="12" y="750" type="line"/>
+      <point x="12" y="770" type="line"/>
+      <point x="224" y="770" type="line"/>
+      <point x="223" y="750" type="line"/>
+      <point x="192" y="750" type="line"/>
+      <point x="192" y="472" type="line"/>
+      <point x="224" y="455"/>
+      <point x="264" y="437"/>
+      <point x="306" y="424" type="curve" smooth="yes"/>
+      <point x="372" y="403"/>
+      <point x="438" y="395"/>
+      <point x="500" y="388" type="curve" smooth="yes"/>
+      <point x="508" y="387"/>
+      <point x="510" y="382"/>
+      <point x="510" y="377" type="curve" smooth="yes"/>
+      <point x="510" y="24" type="line"/>
+      <point x="570" y="24" type="line"/>
+      <point x="570" y="0" type="line"/>
+      <point x="330" y="0" type="line"/>
+      <point x="330" y="24" type="line"/>
+      <point x="390" y="24" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>24</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>750</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>72</integer>
+            <key>width</key>
+            <integer>120</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>390</integer>
+            <key>width</key>
+            <integer>120</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

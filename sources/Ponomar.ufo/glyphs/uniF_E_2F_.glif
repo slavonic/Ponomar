@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFE2F" format="2">
+  <advance width="0"/>
+  <unicode hex="FE2F"/>
+  <anchor x="-83" y="586.1" name="_HalfMark"/>
+  <outline>
+    <contour>
+      <point x="-34" y="767" type="curve" smooth="yes"/>
+      <point x="-34" y="732"/>
+      <point x="-39" y="711"/>
+      <point x="-50" y="699" type="curve" smooth="yes"/>
+      <point x="-77" y="668"/>
+      <point x="-128" y="653"/>
+      <point x="-205" y="653" type="curve" smooth="yes"/>
+      <point x="-264" y="653"/>
+      <point x="-321" y="653"/>
+      <point x="-361" y="653" type="curve"/>
+      <point x="-361" y="685" type="line"/>
+      <point x="-318" y="685"/>
+      <point x="-259" y="684"/>
+      <point x="-204" y="684" type="curve" smooth="yes"/>
+      <point x="-149" y="684"/>
+      <point x="-122" y="702"/>
+      <point x="-122" y="737" type="curve" smooth="yes"/>
+      <point x="-122" y="774" type="line" smooth="yes"/>
+      <point x="-122" y="780"/>
+      <point x="-117" y="786"/>
+      <point x="-106" y="791" type="curve" smooth="yes"/>
+      <point x="-105" y="792"/>
+      <point x="-104" y="791"/>
+      <point x="-103" y="791" type="curve" smooth="yes"/>
+      <point x="-94" y="793"/>
+      <point x="-85" y="797"/>
+      <point x="-76" y="797" type="curve" smooth="yes"/>
+      <point x="-52" y="797"/>
+      <point x="-34" y="788"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>653</integer>
+            <key>width</key>
+            <integer>31</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-122</integer>
+            <key>width</key>
+            <integer>88</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

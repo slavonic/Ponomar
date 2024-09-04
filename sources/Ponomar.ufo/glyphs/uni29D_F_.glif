@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni29DF" format="2">
+  <advance width="731"/>
+  <unicode hex="29DF"/>
+  <anchor x="733" y="458" name="DoubleTitlo"/>
+  <anchor x="478.5" y="460" name="HalfMark"/>
+  <anchor x="104.5" y="462" name="left"/>
+  <anchor x="634.5" y="458" name="right"/>
+  <anchor x="366.5" y="1" name="below"/>
+  <anchor x="636.5" y="459" name="Yerok"/>
+  <anchor x="368" y="460" name="Diacritic"/>
+  <key>note</key>
+  <string>DOUBLE-ENDED MULTIMAP
+Used by Syrnikov as a symbol for a double service</string>
+  <outline>
+    <contour>
+      <point x="253" y="254" type="curve" smooth="yes"/>
+      <point x="253" y="298"/>
+      <point x="216" y="338"/>
+      <point x="174" y="338" type="curve" smooth="yes"/>
+      <point x="132" y="338"/>
+      <point x="95" y="299"/>
+      <point x="95" y="254" type="curve" smooth="yes"/>
+      <point x="95" y="209"/>
+      <point x="132" y="170"/>
+      <point x="173" y="170" type="curve" smooth="yes"/>
+      <point x="216" y="170"/>
+      <point x="253" y="209"/>
+    </contour>
+    <contour>
+      <point x="636" y="254" type="curve" smooth="yes"/>
+      <point x="636" y="298"/>
+      <point x="599" y="338"/>
+      <point x="558" y="338" type="curve" smooth="yes"/>
+      <point x="516" y="338"/>
+      <point x="478" y="299"/>
+      <point x="478" y="254" type="curve" smooth="yes"/>
+      <point x="478" y="209"/>
+      <point x="515" y="170"/>
+      <point x="556" y="170" type="curve" smooth="yes"/>
+      <point x="599" y="170"/>
+      <point x="636" y="209"/>
+    </contour>
+    <contour>
+      <point x="301" y="231" type="line"/>
+      <point x="290" y="170"/>
+      <point x="238" y="120"/>
+      <point x="173" y="120" type="curve" smooth="yes"/>
+      <point x="100" y="120"/>
+      <point x="45" y="185"/>
+      <point x="45" y="254" type="curve" smooth="yes"/>
+      <point x="45" y="325"/>
+      <point x="102" y="388"/>
+      <point x="174" y="388" type="curve" smooth="yes"/>
+      <point x="239" y="388"/>
+      <point x="292" y="336"/>
+      <point x="301" y="274" type="curve"/>
+      <point x="430" y="274" type="line"/>
+      <point x="440" y="337"/>
+      <point x="492" y="388"/>
+      <point x="558" y="388" type="curve" smooth="yes"/>
+      <point x="630" y="388"/>
+      <point x="686" y="324"/>
+      <point x="686" y="254" type="curve" smooth="yes"/>
+      <point x="686" y="183"/>
+      <point x="630" y="120"/>
+      <point x="556" y="120" type="curve" smooth="yes"/>
+      <point x="492" y="120"/>
+      <point x="440" y="171"/>
+      <point x="430" y="231" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>120</integer>
+            <key>width</key>
+            <integer>50</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>231</integer>
+            <key>width</key>
+            <integer>43</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>338</integer>
+            <key>width</key>
+            <integer>50</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>45</integer>
+            <key>width</key>
+            <integer>50</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>253</integer>
+            <key>width</key>
+            <integer>48</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>430</integer>
+            <key>width</key>
+            <integer>48</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>636</integer>
+            <key>width</key>
+            <integer>50</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
