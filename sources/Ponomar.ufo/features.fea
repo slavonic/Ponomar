@@ -277,34 +277,34 @@ lookup Psitruncationfromright {
 	\uniA672 \uniA674 \uniA675 \uniA676 \uniA677 \uniA678 \uniA679 
 	\uniA67A \uniA67B \uniA67C \uniA67D \uniA698 \uniA699 \uniA69A 
 	\uniA69B \uniA69F \u1F540 \u1F541 \u1F542 \u1F543 \u1F544 
-	\u1F545 \u0000 \uni04860301 \uni04860300 \uniA64B0311 
-	\uni04630300 \uni04630311 \uni04860301.cap \uni0486.cap 
-	\uni04860300.cap \uni044B0311 \uni04630301 \uni2DE3200DA675 
-	\uni2DE4200D2DF7 \uni0430200D0443 \uni043B200D0443 
-	\uni0442200D0432 \uni1C85 \u1F545.alt1 \uni2011 \uni202F 
-	\uni1C81 \uniFE00 \uniFE01 \uni1C82 \uni1C83 \uni1C84 \uni200D 
-	\u1F545.alt2 \uni1C86 \uni1C87 \uni1C88 \uniFE02 \uniFE03 
-	\u1F545.alt3 \u1F545.alt4 \uni0000 \uni0041 \uni0042 \uni0043 
-	\uni0044 \uni0045 \uni0046 \uni0047 \uni0048 \uni0049 \uni004A 
-	\uni004B \uni004C \uni004D \uni004E \uni004F \uni0050 \uni0051 
-	\uni0052 \uni0053 \uni0054 \uni0055 \uni0056 \uni0057 \uni0058 
-	\uni0059 \uni005A \uni0061 \uni0062 \uni0063 \uni0064 \uni0065 
-	\uni0066 \uni0067 \uni0068 \uni0069 \uni006A \uni006B \uni006C 
-	\uni006D \uni006E \uni006F \uni0070 \uni0071 \uni0072 \uni0073 
-	\uni0074 \uni0075 \uni0076 \uni0077 \uni0078 \uni0079 \uni007A 
-	\uni0026 \uniA67F \uni04560307 \uni002A \uni0483 \uni0423 
-	\uni1C80 \uni0060 \uni00B4 \uni030F \uniA64B.short \uni00FE 
-	\uni00DE \uni200C \uni034F \uni017F \uni04A4 \uni04A5 \uni10FB 
-	\uni2058 \uni1DC1 \uni2E2C \uni203B \uni2053 \uni223B \uni223C 
-	\uni223D \uni2241 \uni2056 \uni2059 \uni205C \uni205D \uni2E2A 
-	\uni2E2B \uni2E2D \uni0486 \uni2E34 \uni1DC0 \uniA65E \uniA65F 
-	\uniA662 \uniA664 \uniA666 \uniA663 \uniA665 \uniA667 \uni2022 
-	\uni003B \uni0485 \uni2734 \uni02BC \uni030B \uni205E \uni2052 
-	\uniA64B.short2 \uni2DF50487 \uni04860311 \uniFE2EFE2F \uni000D 
-	\uni0023 \uni0024 \uni0025 \uni0040 \uni20AC \uni00A4 \uni00A7 
-	\uni00B0 \uni2219 \uni200E \uni200F \uni0463.short \uniA69E 
-	\uniFE2E \uniFE2F \uniFE26 \uni0471.alt \uni2E43 \uni200B 
-	\uni2027 \uni051E \uni051F \uniEF08 \uniEF09 \uniEF0A \uni0327 
+	\u1F545 \uni04860301 \uni04860300 \uniA64B0311 \uni04630300 
+	\uni04630311 \uni04860301.cap \uni0486.cap \uni04860300.cap 
+	\uni044B0311 \uni04630301 \uni2DE3200DA675 \uni2DE4200D2DF7 
+	\uni0430200D0443 \uni043B200D0443 \uni0442200D0432 \uni1C85 
+	\u1F545.alt1 \uni2011 \uni202F \uni1C81 \uniFE00 \uniFE01 
+	\uni1C82 \uni1C83 \uni1C84 \uni200D \u1F545.alt2 \uni1C86 
+	\uni1C87 \uni1C88 \uniFE02 \uniFE03 \u1F545.alt3 \u1F545.alt4 
+	\uni0000 \uni0041 \uni0042 \uni0043 \uni0044 \uni0045 \uni0046 
+	\uni0047 \uni0048 \uni0049 \uni004A \uni004B \uni004C \uni004D 
+	\uni004E \uni004F \uni0050 \uni0051 \uni0052 \uni0053 \uni0054 
+	\uni0055 \uni0056 \uni0057 \uni0058 \uni0059 \uni005A \uni0061 
+	\uni0062 \uni0063 \uni0064 \uni0065 \uni0066 \uni0067 \uni0068 
+	\uni0069 \uni006A \uni006B \uni006C \uni006D \uni006E \uni006F 
+	\uni0070 \uni0071 \uni0072 \uni0073 \uni0074 \uni0075 \uni0076 
+	\uni0077 \uni0078 \uni0079 \uni007A \uni0026 \uniA67F 
+	\uni04560307 \uni002A \uni0483 \uni0423 \uni1C80 \uni0060 
+	\uni00B4 \uni030F \uniA64B.short \uni00FE \uni00DE \uni200C 
+	\uni034F \uni017F \uni04A4 \uni04A5 \uni10FB \uni2058 \uni1DC1 
+	\uni2E2C \uni203B \uni2053 \uni223B \uni223C \uni223D \uni2241 
+	\uni2056 \uni2059 \uni205C \uni205D \uni2E2A \uni2E2B \uni2E2D 
+	\uni0486 \uni2E34 \uni1DC0 \uniA65E \uniA65F \uniA662 \uniA664 
+	\uniA666 \uniA663 \uniA665 \uniA667 \uni2022 \uni003B \uni0485 
+	\uni2734 \uni02BC \uni030B \uni205E \uni2052 \uniA64B.short2 
+	\uni2DF50487 \uni04860311 \uniFE2EFE2F \uni000D \uni0023 
+	\uni0024 \uni0025 \uni0040 \uni20AC \uni00A4 \uni00A7 \uni00B0 
+	\uni2219 \uni200E \uni200F \uni0463.short \uniA69E \uniFE2E 
+	\uniFE2F \uniFE26 \uni0471.alt \uni2E43 \uni200B \uni2027 
+	\uni051E \uni051F \uniEF08 \uniEF09 \uniEF0A \uni0327 
 	\uni04750327 \uni04710327 \uniEF00 \uniEF02 \uniEF01 \uni29DF 
 	\uni0332 \uniEF03 \uni0323 \uniEF07 \uni032E \uni2025 \uni2024 
 	\uni2026 \uni0358 \uniEF06 \uniEF04 \uniEF05 \uniEF0B \uniEF10 
@@ -3797,7 +3797,7 @@ feature mkmk {
 	\uni201D \uni201E \uni2020 \uni20DD \uni25CC \uni2626 \uni271A \uni2720 \uni2E2F 
 	\uniA640 \uniA641 \uniA64B \uniA64C \uniA64D \uniA656 \uniA657 \uniA668 \uniA669 
 	\uniA66A \uniA66B \uniA66C \uniA66D \uniA66E \uniA698 \uniA699 \uniA69A \uniA69B 
-	\u1F540 \u1F541 \u1F542 \u1F543 \u1F544 \u1F545 \u0000 \uni04630300 \uni04630311 
+	\u1F540 \u1F541 \u1F542 \u1F543 \u1F544 \u1F545 \uni04630300 \uni04630311 
 	\uni044B0311 \uni04630301 \uni1C85 \u1F545.alt1 \uni2011 \uni202F \uni1C81 
 	\uniFE00 \uniFE01 \uni1C82 \uni1C83 \uni1C84 \uni200D \u1F545.alt2 \uni1C86 
 	\uni1C87 \uni1C88 \uniFE02 \uniFE03 \u1F545.alt3 \u1F545.alt4 \uni0000 \uni0041 

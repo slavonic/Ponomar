@@ -23,7 +23,7 @@ OS2Version: 2
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1187031600
-ModificationTime: 1725452761
+ModificationTime: 1725458924
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -1305,7 +1305,7 @@ NameList: Adobe Glyph List
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 486 18 7
+WinInfo: 666 18 7
 BeginPrivate: 9
 BlueValues 31 [-18 0 437 460 577 597 770 788]
 BlueScale 8 0.039625
@@ -1360,7 +1360,7 @@ Grid
 EndSplineSet
 TeXData: 1 0 0 471859 235929 157286 458228 1048576 157286 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "below" "'mark' Cyrillic Marks Below-1" "right" "'mark' Left and Right Marks-1" "left" "'mark' Left and Right Marks-1" "HalfMark" "'mark' Mark Positioning lookup 0 subtable" "DoubleTitlo" "'mark' Mark Positioning lookup 0 subtable" "Yerok" "'mark' Mark Positioning lookup 0 subtable" "Numeral" "'mark' Slavonic numerals-1" "stacking" "'mkmk' Mark to Mark lookup 9-1" "Diacritic" "'mark' Mark Positioning lookup 0 subtable"
-BeginChars: 1114114 779
+BeginChars: 1114114 778
 
 StartChar: .notdef
 Encoding: 1114112 -1 0
@@ -3706,7 +3706,7 @@ AnchorPoint: "HalfMark" 374 827.7 basechar 0
 LayerCount: 2
 Fore
 Refer: 46 774 N 1 0 0 1 545 262 2
-Refer: 361 1059 N 1 0 0 1 1 1 2
+Refer: 360 1059 N 1 0 0 1 1 1 2
 Validated: 32769
 AlternateSubs2: "'salt' Stylistic Alternatives-1" uni040E.var
 Ligature2: "Cyrillic Canonical Equivalents" uni0423 uni0306
@@ -15149,16 +15149,8 @@ AlternateSubs2: "'salt' Stylistic Alternatives-1" u1F545.alt1 u1F545.alt2 u1F545
 Colour: ff00
 EndChar
 
-StartChar: u0000
-Encoding: 1114113 -1 268
-Width: 1000
-GlyphClass: 2
-LayerCount: 2
-Colour: ff00
-EndChar
-
 StartChar: uni04860301
-Encoding: 57345 57345 269
+Encoding: 57345 57345 268
 GlifName: uni04860301
 Width: 1
 GlyphClass: 4
@@ -15200,7 +15192,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni04860300
-Encoding: 57347 57347 270
+Encoding: 57347 57347 269
 GlifName: uni04860300
 Width: 0
 GlyphClass: 4
@@ -15240,7 +15232,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniA64B0311
-Encoding: 59621 59621 271
+Encoding: 59621 59621 270
 GlifName: uniA_64B_0311
 Width: 450
 GlyphClass: 3
@@ -15316,7 +15308,7 @@ Colour: ffff00
 EndChar
 
 StartChar: uni04630300
-Encoding: 59651 59651 272
+Encoding: 59651 59651 271
 GlifName: uni04630300
 Width: 657
 GlyphClass: 2
@@ -15387,7 +15379,7 @@ Colour: ffff00
 EndChar
 
 StartChar: uni04630311
-Encoding: 59652 59652 273
+Encoding: 59652 59652 272
 GlifName: uni04630311
 Width: 657
 GlyphClass: 2
@@ -15465,7 +15457,7 @@ Colour: ffff00
 EndChar
 
 StartChar: uni04860301.cap
-Encoding: 57346 57346 274
+Encoding: 57346 57346 273
 GlifName: uni04860301.cap
 Width: 0
 GlyphClass: 4
@@ -15508,7 +15500,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni0486.cap
-Encoding: 57344 57344 275
+Encoding: 57344 57344 274
 GlifName: uni0486.cap
 Width: 0
 GlyphClass: 4
@@ -15541,7 +15533,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni04860300.cap
-Encoding: 57348 57348 276
+Encoding: 57348 57348 275
 GlifName: uni04860300.cap
 Width: 0
 GlyphClass: 4
@@ -15584,7 +15576,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni044B0311
-Encoding: 59688 59688 277
+Encoding: 59688 59688 276
 GlifName: uni044B_0311
 Width: 645
 GlyphClass: 2
@@ -15642,7 +15634,7 @@ Colour: ffff00
 EndChar
 
 StartChar: uni04630301
-Encoding: 59649 59649 278
+Encoding: 59649 59649 277
 GlifName: uni04630301
 Width: 660
 GlyphClass: 2
@@ -15713,7 +15705,7 @@ Colour: ffff00
 EndChar
 
 StartChar: uni2DE3200DA675
-Encoding: 983075 983075 279
+Encoding: 983075 983075 278
 GlifName: uni2D_E_3200D_A_675
 Width: 0
 GlyphClass: 4
@@ -15778,7 +15770,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni2DE4200D2DF7
-Encoding: 983088 983088 280
+Encoding: 983088 983088 279
 GlifName: uni2D_E_4200D_2D_F_7
 Width: 0
 GlyphClass: 4
@@ -15861,7 +15853,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni0430200D0443
-Encoding: 58898 58898 281
+Encoding: 58898 58898 280
 GlifName: uni0430200D_0443
 Width: 644
 GlyphClass: 3
@@ -15931,7 +15923,7 @@ Colour: ffff00
 EndChar
 
 StartChar: uni043B200D0443
-Encoding: 59156 59156 282
+Encoding: 59156 59156 281
 GlifName: uni043B_200D_0443
 Width: 683
 GlyphClass: 3
@@ -15996,7 +15988,7 @@ Colour: ffff00
 EndChar
 
 StartChar: uni0442200D0432
-Encoding: 59392 59392 283
+Encoding: 59392 59392 282
 GlifName: uni0442200D_0432
 Width: 487
 GlyphClass: 3
@@ -16065,7 +16057,7 @@ Colour: ffff00
 EndChar
 
 StartChar: uni1C85
-Encoding: 7301 7301 284
+Encoding: 7301 7301 283
 GlifName: uni1C_85
 Width: 662
 GlyphClass: 2
@@ -16115,7 +16107,7 @@ Colour: ffff00
 EndChar
 
 StartChar: u1F545.alt1
-Encoding: 58832 58832 285
+Encoding: 58832 58832 284
 GlifName: u1F_545.alt1
 Width: 735
 GlyphClass: 2
@@ -16258,7 +16250,7 @@ Colour: ff00
 EndChar
 
 StartChar: uni2011
-Encoding: 8209 8209 286
+Encoding: 8209 8209 285
 GlifName: uni2011
 Width: 375
 Flags: W
@@ -16280,7 +16272,7 @@ Colour: ff00
 EndChar
 
 StartChar: uni202F
-Encoding: 8239 8239 287
+Encoding: 8239 8239 286
 GlifName: uni202F_
 Width: 225
 Flags: W
@@ -16289,7 +16281,7 @@ Colour: ff00
 EndChar
 
 StartChar: uni1C81
-Encoding: 7297 7297 288
+Encoding: 7297 7297 287
 GlifName: uni1C_81
 Width: 454
 VWidth: 0
@@ -16337,7 +16329,7 @@ Colour: ff00
 EndChar
 
 StartChar: uniFE00
-Encoding: 65024 65024 289
+Encoding: 65024 65024 288
 GlifName: uniF_E_00
 Width: 529
 Flags: W
@@ -16374,7 +16366,7 @@ Colour: ff00
 EndChar
 
 StartChar: uniFE01
-Encoding: 65025 65025 290
+Encoding: 65025 65025 289
 GlifName: uniF_E_01
 Width: 529
 Flags: W
@@ -16411,7 +16403,7 @@ Colour: ff00
 EndChar
 
 StartChar: uni1C82
-Encoding: 7298 7298 291
+Encoding: 7298 7298 290
 GlifName: uni1C_82
 Width: 292
 Flags: W
@@ -16446,7 +16438,7 @@ Colour: ff00
 EndChar
 
 StartChar: uni1C83
-Encoding: 7299 7299 292
+Encoding: 7299 7299 291
 GlifName: uni1C_83
 Width: 664
 VWidth: 0
@@ -16493,7 +16485,7 @@ Colour: ff00
 EndChar
 
 StartChar: uni1C84
-Encoding: 7300 7300 293
+Encoding: 7300 7300 292
 GlifName: uni1C_84
 Width: 292
 VWidth: 0
@@ -16536,7 +16528,7 @@ Colour: ffff00
 EndChar
 
 StartChar: uni200D
-Encoding: 8205 8205 294
+Encoding: 8205 8205 293
 GlifName: uni200D_
 Width: 0
 VWidth: 0
@@ -16546,7 +16538,7 @@ Colour: ff00
 EndChar
 
 StartChar: u1F545.alt2
-Encoding: 58833 58833 295
+Encoding: 58833 58833 294
 GlifName: u1F_545.alt2
 Width: 1035
 VWidth: 0
@@ -16655,7 +16647,7 @@ Colour: ff00
 EndChar
 
 StartChar: uni1C86
-Encoding: 7302 7302 296
+Encoding: 7302 7302 295
 GlifName: uni1C_86
 Width: 513
 VWidth: 0
@@ -16718,7 +16710,7 @@ Colour: ff00
 EndChar
 
 StartChar: uni1C87
-Encoding: 7303 7303 297
+Encoding: 7303 7303 296
 GlifName: uni1C_87
 Width: 466
 Flags: W
@@ -16796,7 +16788,7 @@ Colour: ff00
 EndChar
 
 StartChar: uni1C88
-Encoding: 7304 7304 298
+Encoding: 7304 7304 297
 GlifName: uni1C_88
 Width: 312
 Flags: W
@@ -16857,7 +16849,7 @@ Colour: ffff00
 EndChar
 
 StartChar: uniFE02
-Encoding: 65026 65026 299
+Encoding: 65026 65026 298
 GlifName: uniF_E_02
 Width: 529
 Flags: W
@@ -16894,7 +16886,7 @@ Colour: ff00
 EndChar
 
 StartChar: uniFE03
-Encoding: 65027 65027 300
+Encoding: 65027 65027 299
 GlifName: uniF_E_03
 Width: 529
 Flags: W
@@ -16931,7 +16923,7 @@ Colour: ff00
 EndChar
 
 StartChar: u1F545.alt3
-Encoding: 58834 58834 301
+Encoding: 58834 58834 300
 GlifName: u1F_545.alt3
 Width: 743
 Flags: W
@@ -17076,7 +17068,7 @@ Colour: ff00
 EndChar
 
 StartChar: u1F545.alt4
-Encoding: 58835 58835 302
+Encoding: 58835 58835 301
 GlifName: u1F_545.alt4
 Width: 743
 Flags: W
@@ -17197,16 +17189,16 @@ Colour: ff00
 EndChar
 
 StartChar: uni0000
-Encoding: 0 0 303
+Encoding: 0 0 302
 GlifName: uni0000
-Width: 0
+Width: 1
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 EndChar
 
 StartChar: uni0041
-Encoding: 65 65 304
+Encoding: 65 65 303
 GlifName: uni0041
 Width: 715
 Flags: MW
@@ -17259,7 +17251,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni0042
-Encoding: 66 66 305
+Encoding: 66 66 304
 GlifName: uni0042
 Width: 562
 Flags: W
@@ -17305,7 +17297,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni0043
-Encoding: 67 67 306
+Encoding: 67 67 305
 GlifName: uni0043
 Width: 636
 Flags: MW
@@ -17335,7 +17327,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni0044
-Encoding: 68 68 307
+Encoding: 68 68 306
 GlifName: uni0044
 Width: 676
 Flags: W
@@ -17371,7 +17363,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni0045
-Encoding: 69 69 308
+Encoding: 69 69 307
 GlifName: uni0045
 Width: 542
 Flags: W
@@ -17427,7 +17419,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni0046
-Encoding: 70 70 309
+Encoding: 70 70 308
 GlifName: uni0046
 Width: 489
 Flags: MW
@@ -17479,7 +17471,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni0047
-Encoding: 71 71 310
+Encoding: 71 71 309
 GlifName: uni0047
 Width: 690
 Flags: W
@@ -17518,7 +17510,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni0048
-Encoding: 72 72 311
+Encoding: 72 72 310
 GlifName: uni0048
 Width: 728
 Flags: MW
@@ -17575,7 +17567,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni0049
-Encoding: 73 73 312
+Encoding: 73 73 311
 GlifName: uni0049
 Width: 296
 Flags: W
@@ -17610,7 +17602,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni004A
-Encoding: 74 74 313
+Encoding: 74 74 312
 GlifName: uni004A_
 Width: 332
 Flags: W
@@ -17644,7 +17636,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni004B
-Encoding: 75 75 314
+Encoding: 75 75 313
 GlifName: uni004B_
 Width: 646
 Flags: W
@@ -17706,7 +17698,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni004C
-Encoding: 76 76 315
+Encoding: 76 76 314
 GlifName: uni004C_
 Width: 521
 Flags: MW
@@ -17745,7 +17737,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni004D
-Encoding: 77 77 316
+Encoding: 77 77 315
 GlifName: uni004D_
 Width: 836
 Flags: MW
@@ -17805,7 +17797,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni004E
-Encoding: 78 78 317
+Encoding: 78 78 316
 GlifName: uni004E_
 Width: 708
 Flags: W
@@ -17857,7 +17849,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni004F
-Encoding: 79 79 318
+Encoding: 79 79 317
 GlifName: uni004F_
 Width: 694
 Flags: W
@@ -17883,7 +17875,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni0050
-Encoding: 80 80 319
+Encoding: 80 80 318
 GlifName: uni0050
 Width: 527
 Flags: MW
@@ -17925,7 +17917,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni0051
-Encoding: 81 81 320
+Encoding: 81 81 319
 GlifName: uni0051
 Width: 703
 Flags: W
@@ -17965,7 +17957,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni0052
-Encoding: 82 82 321
+Encoding: 82 82 320
 GlifName: uni0052
 Width: 607
 Flags: W
@@ -18015,7 +18007,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni0053
-Encoding: 83 83 322
+Encoding: 83 83 321
 GlifName: uni0053
 Width: 471
 Flags: W
@@ -18051,7 +18043,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni0054
-Encoding: 84 84 323
+Encoding: 84 84 322
 GlifName: uni0054
 Width: 595
 Flags: W
@@ -18094,7 +18086,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni0055
-Encoding: 85 85 324
+Encoding: 85 85 323
 GlifName: uni0055
 Width: 662
 Flags: W
@@ -18138,7 +18130,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni0056
-Encoding: 86 86 325
+Encoding: 86 86 324
 GlifName: uni0056
 Width: 654
 Flags: W
@@ -18180,7 +18172,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni0057
-Encoding: 87 87 326
+Encoding: 87 87 325
 GlifName: uni0057
 Width: 956
 Flags: W
@@ -18243,7 +18235,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni0058
-Encoding: 88 88 327
+Encoding: 88 88 326
 GlifName: uni0058
 Width: 645
 Flags: W
@@ -18313,7 +18305,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni0059
-Encoding: 89 89 328
+Encoding: 89 89 327
 GlifName: uni0059
 Width: 577
 Flags: W
@@ -18367,7 +18359,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni005A
-Encoding: 90 90 329
+Encoding: 90 90 328
 GlifName: uni005A_
 Width: 590
 Flags: W
@@ -18408,7 +18400,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni0061
-Encoding: 97 97 330
+Encoding: 97 97 329
 GlifName: uni0061
 Width: 464
 Flags: W
@@ -18453,7 +18445,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni0062
-Encoding: 98 98 331
+Encoding: 98 98 330
 GlifName: uni0062
 Width: 471
 Flags: W
@@ -18495,7 +18487,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni0063
-Encoding: 99 99 332
+Encoding: 99 99 331
 GlifName: uni0063
 Width: 407
 Flags: W
@@ -18523,7 +18515,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni0064
-Encoding: 100 100 333
+Encoding: 100 100 332
 GlifName: uni0064
 Width: 507
 Flags: W
@@ -18572,7 +18564,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni0065
-Encoding: 101 101 334
+Encoding: 101 101 333
 GlifName: uni0065
 Width: 438
 Flags: W
@@ -18604,7 +18596,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni0066
-Encoding: 102 102 335
+Encoding: 102 102 334
 GlifName: uni0066
 Width: 388
 Flags: W
@@ -18650,7 +18642,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni0067
-Encoding: 103 103 336
+Encoding: 103 103 335
 GlifName: uni0067
 Width: 503
 Flags: W
@@ -18702,7 +18694,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni0068
-Encoding: 104 104 337
+Encoding: 104 104 336
 GlifName: uni0068
 Width: 532
 Flags: W
@@ -18754,7 +18746,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni0069
-Encoding: 105 105 338
+Encoding: 105 105 337
 GlifName: uni0069
 Width: 283
 Flags: W
@@ -18791,7 +18783,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni006A
-Encoding: 106 106 339
+Encoding: 106 106 338
 GlifName: uni006A_
 Width: 247
 Flags: W
@@ -18827,7 +18819,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni006B
-Encoding: 107 107 340
+Encoding: 107 107 339
 GlifName: uni006B_
 Width: 526
 Flags: W
@@ -18888,7 +18880,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni006C
-Encoding: 108 108 341
+Encoding: 108 108 340
 GlifName: uni006C_
 Width: 266
 Flags: W
@@ -18921,7 +18913,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni006D
-Encoding: 109 109 342
+Encoding: 109 109 341
 GlifName: uni006D_
 Width: 793
 Flags: W
@@ -18986,7 +18978,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni006E
-Encoding: 110 110 343
+Encoding: 110 110 342
 GlifName: uni006E_
 Width: 566
 Flags: W
@@ -19036,7 +19028,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni006F
-Encoding: 111 111 344
+Encoding: 111 111 343
 GlifName: uni006F_
 Width: 487
 Flags: W
@@ -19062,7 +19054,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni0070
-Encoding: 112 112 345
+Encoding: 112 112 344
 GlifName: uni0070
 Width: 499
 Flags: W
@@ -19108,7 +19100,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni0071
-Encoding: 113 113 346
+Encoding: 113 113 345
 GlifName: uni0071
 Width: 532
 Flags: W
@@ -19153,7 +19145,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni0072
-Encoding: 114 114 347
+Encoding: 114 114 346
 GlifName: uni0072
 Width: 375
 Flags: W
@@ -19193,7 +19185,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni0073
-Encoding: 115 115 348
+Encoding: 115 115 347
 GlifName: uni0073
 Width: 368
 Flags: W
@@ -19230,7 +19222,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni0074
-Encoding: 116 116 349
+Encoding: 116 116 348
 GlifName: uni0074
 Width: 318
 Flags: W
@@ -19271,7 +19263,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni0075
-Encoding: 117 117 350
+Encoding: 117 117 349
 GlifName: uni0075
 Width: 543
 Flags: W
@@ -19319,7 +19311,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni0076
-Encoding: 118 118 351
+Encoding: 118 118 350
 GlifName: uni0076
 Width: 522
 Flags: W
@@ -19363,7 +19355,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni0077
-Encoding: 119 119 352
+Encoding: 119 119 351
 GlifName: uni0077
 Width: 760
 Flags: W
@@ -19424,7 +19416,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni0078
-Encoding: 120 120 353
+Encoding: 120 120 352
 GlifName: uni0078
 Width: 499
 Flags: W
@@ -19489,7 +19481,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni0079
-Encoding: 121 121 354
+Encoding: 121 121 353
 GlifName: uni0079
 Width: 533
 Flags: W
@@ -19539,7 +19531,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni007A
-Encoding: 122 122 355
+Encoding: 122 122 354
 GlifName: uni007A_
 Width: 418
 Flags: W
@@ -19577,7 +19569,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni0026
-Encoding: 38 38 356
+Encoding: 38 38 355
 GlifName: uni0026
 Width: 774
 Flags: W
@@ -19661,7 +19653,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniA67F
-Encoding: 42623 42623 357
+Encoding: 42623 42623 356
 GlifName: uniA_67F_
 Width: 200
 GlyphClass: 2
@@ -19702,7 +19694,7 @@ Colour: ff00ff
 EndChar
 
 StartChar: uni04560307
-Encoding: 59686 59686 358
+Encoding: 59686 59686 357
 GlifName: uni04560307
 Width: 176
 GlyphClass: 2
@@ -19741,7 +19733,7 @@ Colour: ffff00
 EndChar
 
 StartChar: uni002A
-Encoding: 42 42 359
+Encoding: 42 42 358
 GlifName: uni002A_
 Width: 387
 Flags: W
@@ -19789,7 +19781,7 @@ Colour: ff00
 EndChar
 
 StartChar: uni0483
-Encoding: 1155 1155 360
+Encoding: 1155 1155 359
 GlifName: uni0483
 Width: 0
 GlyphClass: 4
@@ -19824,7 +19816,7 @@ Colour: ff00
 EndChar
 
 StartChar: uni0423
-Encoding: 1059 1059 361
+Encoding: 1059 1059 360
 GlifName: uni0423
 Width: 677
 Flags: W
@@ -19879,7 +19871,7 @@ Colour: ff00
 EndChar
 
 StartChar: uni1C80
-Encoding: 7296 7296 362
+Encoding: 7296 7296 361
 GlifName: uni1C_80
 Width: 544
 Flags: W
@@ -19929,7 +19921,7 @@ Colour: ff00
 EndChar
 
 StartChar: uni0060
-Encoding: 96 96 363
+Encoding: 96 96 362
 GlifName: uni0060
 Width: 196
 Flags: W
@@ -19954,7 +19946,7 @@ Colour: ff00
 EndChar
 
 StartChar: uni00B4
-Encoding: 180 180 364
+Encoding: 180 180 363
 GlifName: uni00B_4
 Width: 192
 Flags: W
@@ -19978,7 +19970,7 @@ Colour: ff00
 EndChar
 
 StartChar: uni030F
-Encoding: 783 783 365
+Encoding: 783 783 364
 GlifName: uni030F_
 Width: 0
 GlyphClass: 4
@@ -20016,7 +20008,7 @@ Colour: ffff00
 EndChar
 
 StartChar: uniA64B.short
-Encoding: 57570 57570 366
+Encoding: 57570 57570 365
 GlifName: uniA_64B_.short
 Width: 464
 Flags: W
@@ -20062,7 +20054,7 @@ Colour: ff00
 EndChar
 
 StartChar: uni00FE
-Encoding: 254 254 367
+Encoding: 254 254 366
 GlifName: uni00F_E_
 Width: 533
 Flags: W
@@ -20113,7 +20105,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni00DE
-Encoding: 222 222 368
+Encoding: 222 222 367
 GlifName: uni00D_E_
 Width: 538
 Flags: W
@@ -20164,7 +20156,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni200C
-Encoding: 8204 8204 369
+Encoding: 8204 8204 368
 GlifName: uni200C_
 Width: 7
 GlyphClass: 2
@@ -20174,7 +20166,7 @@ Colour: ff00
 EndChar
 
 StartChar: uni034F
-Encoding: 847 847 370
+Encoding: 847 847 369
 GlifName: uni034F_
 Width: 0
 GlyphClass: 4
@@ -20184,7 +20176,7 @@ Colour: ff00
 EndChar
 
 StartChar: uni017F
-Encoding: 383 383 371
+Encoding: 383 383 370
 GlifName: uni017F_
 Width: 304
 GlyphClass: 2
@@ -20225,7 +20217,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni04A4
-Encoding: 1188 1188 372
+Encoding: 1188 1188 371
 GlifName: uni04A_4
 Width: 790
 Flags: W
@@ -20278,7 +20270,7 @@ Colour: ff00ff
 EndChar
 
 StartChar: uni04A5
-Encoding: 1189 1189 373
+Encoding: 1189 1189 372
 GlifName: uni04A_5
 Width: 674
 Flags: W
@@ -20332,7 +20324,7 @@ Colour: ff00ff
 EndChar
 
 StartChar: uni10FB
-Encoding: 4347 4347 374
+Encoding: 4347 4347 373
 GlifName: uni10F_B_
 Width: 334
 VWidth: 0
@@ -20364,7 +20356,7 @@ Colour: ff00ff
 EndChar
 
 StartChar: uni2058
-Encoding: 8280 8280 375
+Encoding: 8280 8280 374
 GlifName: uni2058
 Width: 514
 VWidth: 0
@@ -20401,7 +20393,7 @@ Colour: ff00ff
 EndChar
 
 StartChar: uni1DC1
-Encoding: 7617 7617 376
+Encoding: 7617 7617 375
 GlifName: uni1D_C_1
 Width: 0
 VWidth: 0
@@ -20443,7 +20435,7 @@ Colour: ff00ff
 EndChar
 
 StartChar: uni2E2C
-Encoding: 11820 11820 377
+Encoding: 11820 11820 376
 GlifName: uni2E_2C_
 Width: 500
 VWidth: 0
@@ -20495,7 +20487,7 @@ Colour: ff00ff
 EndChar
 
 StartChar: uni203B
-Encoding: 8251 8251 378
+Encoding: 8251 8251 377
 GlifName: uni203B_
 Width: 462
 VWidth: 0
@@ -20565,7 +20557,7 @@ Colour: ff00ff
 EndChar
 
 StartChar: uni2053
-Encoding: 8275 8275 379
+Encoding: 8275 8275 378
 GlifName: uni2053
 Width: 907
 VWidth: 0
@@ -20600,7 +20592,7 @@ Colour: ff00ff
 EndChar
 
 StartChar: uni223B
-Encoding: 8763 8763 380
+Encoding: 8763 8763 379
 GlifName: uni223B_
 Width: 887
 VWidth: 0
@@ -20653,7 +20645,7 @@ Colour: ff00ff
 EndChar
 
 StartChar: uni223C
-Encoding: 8764 8764 381
+Encoding: 8764 8764 380
 GlifName: uni223C_
 Width: 887
 VWidth: 0
@@ -20688,7 +20680,7 @@ Colour: ff00ff
 EndChar
 
 StartChar: uni223D
-Encoding: 8765 8765 382
+Encoding: 8765 8765 381
 GlifName: uni223D_
 Width: 887
 VWidth: 0
@@ -20723,7 +20715,7 @@ Colour: ff00ff
 EndChar
 
 StartChar: uni2241
-Encoding: 8769 8769 383
+Encoding: 8769 8769 382
 GlifName: uni2241
 Width: 887
 VWidth: 0
@@ -20766,7 +20758,7 @@ Colour: ff00ff
 EndChar
 
 StartChar: uni2056
-Encoding: 8278 8278 384
+Encoding: 8278 8278 383
 GlifName: uni2056
 Width: 344
 VWidth: 0
@@ -20798,7 +20790,7 @@ Colour: ff00ff
 EndChar
 
 StartChar: uni2059
-Encoding: 8281 8281 385
+Encoding: 8281 8281 384
 GlifName: uni2059
 Width: 500
 VWidth: 0
@@ -20859,7 +20851,7 @@ Colour: ff00ff
 EndChar
 
 StartChar: uni205C
-Encoding: 8284 8284 386
+Encoding: 8284 8284 385
 GlifName: uni205C_
 Width: 742
 VWidth: 0
@@ -20950,7 +20942,7 @@ Colour: ff00ff
 EndChar
 
 StartChar: uni205D
-Encoding: 8285 8285 387
+Encoding: 8285 8285 386
 GlifName: uni205D_
 Width: 196
 VWidth: 0
@@ -20993,7 +20985,7 @@ Colour: ff00ff
 EndChar
 
 StartChar: uni2E2A
-Encoding: 11818 11818 388
+Encoding: 11818 11818 387
 GlifName: uni2E_2A_
 Width: 544
 VWidth: 0
@@ -21024,7 +21016,7 @@ Colour: ff00ff
 EndChar
 
 StartChar: uni2E2B
-Encoding: 11819 11819 389
+Encoding: 11819 11819 388
 GlifName: uni2E_2B_
 Width: 544
 VWidth: 0
@@ -21055,7 +21047,7 @@ Colour: ff00ff
 EndChar
 
 StartChar: uni2E2D
-Encoding: 11821 11821 390
+Encoding: 11821 11821 389
 GlifName: uni2E_2D_
 Width: 514
 VWidth: 0
@@ -21097,7 +21089,7 @@ Colour: ff00ff
 EndChar
 
 StartChar: uni0486
-Encoding: 1158 1158 391
+Encoding: 1158 1158 390
 GlifName: uni0486
 Width: 0
 GlyphClass: 4
@@ -21129,7 +21121,7 @@ Colour: ff00
 EndChar
 
 StartChar: uni2E34
-Encoding: 11828 11828 392
+Encoding: 11828 11828 391
 GlifName: uni2E_34
 Width: 304
 Flags: W
@@ -21157,7 +21149,7 @@ Colour: ff00ff
 EndChar
 
 StartChar: uni1DC0
-Encoding: 7616 7616 393
+Encoding: 7616 7616 392
 GlifName: uni1D_C_0
 Width: 0
 VWidth: 0
@@ -21199,7 +21191,7 @@ Colour: ff00ff
 EndChar
 
 StartChar: uniA65E
-Encoding: 42590 42590 394
+Encoding: 42590 42590 393
 GlifName: uniA_65E_
 Width: 735
 Flags: W
@@ -21253,7 +21245,7 @@ Colour: ff00ff
 EndChar
 
 StartChar: uniA65F
-Encoding: 42591 42591 395
+Encoding: 42591 42591 394
 GlifName: uniA_65F_
 Width: 572
 Flags: W
@@ -21305,7 +21297,7 @@ Colour: ff00ff
 EndChar
 
 StartChar: uniA662
-Encoding: 42594 42594 396
+Encoding: 42594 42594 395
 GlifName: uniA_662
 Width: 807
 Flags: W
@@ -21373,7 +21365,7 @@ Colour: ff00ff
 EndChar
 
 StartChar: uniA664
-Encoding: 42596 42596 397
+Encoding: 42596 42596 396
 GlifName: uniA_664
 Width: 790
 Flags: W
@@ -21423,7 +21415,7 @@ Colour: ff00ff
 EndChar
 
 StartChar: uniA666
-Encoding: 42598 42598 398
+Encoding: 42598 42598 397
 GlifName: uniA_666
 Width: 1035
 Flags: W
@@ -21489,7 +21481,7 @@ Colour: ff00ff
 EndChar
 
 StartChar: uniA663
-Encoding: 42595 42595 399
+Encoding: 42595 42595 398
 GlifName: uniA_663
 Width: 516
 Flags: W
@@ -21552,7 +21544,7 @@ Colour: ff00ff
 EndChar
 
 StartChar: uniA665
-Encoding: 42597 42597 400
+Encoding: 42597 42597 399
 GlifName: uniA_665
 Width: 575
 Flags: W
@@ -21604,7 +21596,7 @@ Colour: ff00ff
 EndChar
 
 StartChar: uniA667
-Encoding: 42599 42599 401
+Encoding: 42599 42599 400
 GlifName: uniA_667
 Width: 830
 Flags: W
@@ -21667,7 +21659,7 @@ Colour: ff00ff
 EndChar
 
 StartChar: uni2022
-Encoding: 8226 8226 402
+Encoding: 8226 8226 401
 GlifName: uni2022
 Width: 298
 Flags: W
@@ -21687,7 +21679,7 @@ Colour: ff00ff
 EndChar
 
 StartChar: uni003B
-Encoding: 59 59 403
+Encoding: 59 59 402
 GlifName: uni003B_
 Width: 297
 Flags: W
@@ -21722,7 +21714,7 @@ Colour: ff00
 EndChar
 
 StartChar: uni0485
-Encoding: 1157 1157 404
+Encoding: 1157 1157 403
 GlifName: uni0485
 Width: 235
 GlyphClass: 4
@@ -21757,7 +21749,7 @@ Colour: ff00ff
 EndChar
 
 StartChar: uni2734
-Encoding: 10036 10036 405
+Encoding: 10036 10036 404
 GlifName: uni2734
 Width: 722
 Flags: W
@@ -21809,7 +21801,7 @@ Colour: ff00
 EndChar
 
 StartChar: uni02BC
-Encoding: 700 700 406
+Encoding: 700 700 405
 GlifName: uni02B_C_
 Width: 199
 Flags: W
@@ -21837,7 +21829,7 @@ Colour: ff00
 EndChar
 
 StartChar: uni030B
-Encoding: 779 779 407
+Encoding: 779 779 406
 GlifName: uni030B_
 Width: 0
 GlyphClass: 4
@@ -21875,7 +21867,7 @@ Colour: ffff00
 EndChar
 
 StartChar: uni205E
-Encoding: 8286 8286 408
+Encoding: 8286 8286 407
 GlifName: uni205E_
 Width: 196
 VWidth: 0
@@ -21927,7 +21919,7 @@ Colour: ff00ff
 EndChar
 
 StartChar: uni2052
-Encoding: 8274 8274 409
+Encoding: 8274 8274 408
 GlifName: uni2052
 Width: 610
 Flags: W
@@ -21962,7 +21954,7 @@ Colour: ff00ff
 EndChar
 
 StartChar: uniA64B.short2
-Encoding: 57572 57572 410
+Encoding: 57572 57572 409
 GlifName: uniA_64B_.short2
 Width: 464
 Flags: W
@@ -22005,7 +21997,7 @@ Colour: ff00
 EndChar
 
 StartChar: uni2DF50487
-Encoding: 62480 62480 411
+Encoding: 62480 62480 410
 GlifName: uni2D_F_50487
 Width: 0
 GlyphClass: 4
@@ -22062,7 +22054,7 @@ Colour: ffffff
 EndChar
 
 StartChar: uni04860311
-Encoding: 57349 57349 412
+Encoding: 57349 57349 411
 GlifName: uni04860311
 Width: 0
 GlyphClass: 4
@@ -22113,7 +22105,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniFE2EFE2F
-Encoding: 57366 57366 413
+Encoding: 57366 57366 412
 GlifName: uniF_E_2E_F_E_2F_
 Width: 0
 GlyphClass: 4
@@ -22163,7 +22155,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni000D
-Encoding: 13 13 414
+Encoding: 13 13 413
 GlifName: uni000D_
 Width: 450
 Flags: W
@@ -22171,7 +22163,7 @@ LayerCount: 2
 EndChar
 
 StartChar: uni0023
-Encoding: 35 35 415
+Encoding: 35 35 414
 GlifName: uni0023
 Width: 521
 Flags: W
@@ -22221,7 +22213,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni0024
-Encoding: 36 36 416
+Encoding: 36 36 415
 GlifName: uni0024
 Width: 500
 Flags: W
@@ -22272,7 +22264,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni0025
-Encoding: 37 37 417
+Encoding: 37 37 416
 GlifName: uni0025
 Width: 815
 Flags: W
@@ -22328,7 +22320,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni0040
-Encoding: 64 64 418
+Encoding: 64 64 417
 GlifName: uni0040
 Width: 921
 Flags: W
@@ -22383,7 +22375,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni20AC
-Encoding: 8364 8364 419
+Encoding: 8364 8364 418
 GlifName: uni20A_C_
 Width: 741
 Flags: W
@@ -22428,7 +22420,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni00A4
-Encoding: 164 164 420
+Encoding: 164 164 419
 GlifName: uni00A_4
 Width: 500
 Flags: W
@@ -22470,7 +22462,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni00A7
-Encoding: 167 167 421
+Encoding: 167 167 420
 GlifName: uni00A_7
 Width: 500
 Flags: W
@@ -22523,7 +22515,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni00B0
-Encoding: 176 176 422
+Encoding: 176 176 421
 GlifName: uni00B_0
 Width: 400
 Flags: W
@@ -22548,7 +22540,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni2219
-Encoding: 8729 8729 423
+Encoding: 8729 8729 422
 GlifName: uni2219
 Width: 149
 Flags: W
@@ -22568,7 +22560,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni200E
-Encoding: 8206 8206 424
+Encoding: 8206 8206 423
 GlifName: uni200E_
 Width: 0
 VWidth: 0
@@ -22578,7 +22570,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni200F
-Encoding: 8207 8207 425
+Encoding: 8207 8207 424
 GlifName: uni200F_
 Width: 0
 VWidth: 0
@@ -22588,7 +22580,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni0463.short
-Encoding: 57580 57580 426
+Encoding: 57580 57580 425
 GlifName: uni0463.short
 Width: 659
 GlyphClass: 2
@@ -22652,7 +22644,7 @@ Colour: ff00
 EndChar
 
 StartChar: uniA69E
-Encoding: 42654 42654 427
+Encoding: 42654 42654 426
 GlifName: uniA_69E_
 Width: 0
 GlyphClass: 4
@@ -22711,7 +22703,7 @@ Colour: ff00ff
 EndChar
 
 StartChar: uniFE2E
-Encoding: 65070 65070 428
+Encoding: 65070 65070 427
 GlifName: uniF_E_2E_
 Width: 0
 GlyphClass: 4
@@ -22742,7 +22734,7 @@ Colour: ff00ff
 EndChar
 
 StartChar: uniFE2F
-Encoding: 65071 65071 429
+Encoding: 65071 65071 428
 GlifName: uniF_E_2F_
 Width: 0
 GlyphClass: 4
@@ -22771,7 +22763,7 @@ Colour: ff00ff
 EndChar
 
 StartChar: uniFE26
-Encoding: 65062 65062 430
+Encoding: 65062 65062 429
 GlifName: uniF_E_26
 Width: 0
 GlyphClass: 4
@@ -22795,7 +22787,7 @@ Colour: ff00ff
 EndChar
 
 StartChar: uni0471.alt
-Encoding: 57581 57581 431
+Encoding: 57581 57581 430
 GlifName: uni0471.alt
 Width: 708
 GlyphClass: 2
@@ -22866,7 +22858,7 @@ Colour: ff00
 EndChar
 
 StartChar: uni2E43
-Encoding: 11843 11843 432
+Encoding: 11843 11843 431
 GlifName: uni2E_43
 Width: 390
 VWidth: 0
@@ -22897,7 +22889,7 @@ Colour: ff0000
 EndChar
 
 StartChar: uni200B
-Encoding: 8203 8203 433
+Encoding: 8203 8203 432
 GlifName: uni200B_
 Width: 0
 VWidth: 0
@@ -22907,7 +22899,7 @@ Colour: ff00
 EndChar
 
 StartChar: uni2027
-Encoding: 8231 8231 434
+Encoding: 8231 8231 433
 GlifName: uni2027
 Width: 112
 Flags: W
@@ -22927,7 +22919,7 @@ Colour: ff00
 EndChar
 
 StartChar: uni051E
-Encoding: 1310 1310 435
+Encoding: 1310 1310 434
 GlifName: uni051E_
 Width: 685
 GlyphClass: 2
@@ -22996,7 +22988,7 @@ Colour: ff00ff
 EndChar
 
 StartChar: uni051F
-Encoding: 1311 1311 436
+Encoding: 1311 1311 435
 GlifName: uni051F_
 Width: 517
 GlyphClass: 2
@@ -23064,7 +23056,7 @@ Colour: ff00ff
 EndChar
 
 StartChar: uniEF08
-Encoding: 61192 61192 437
+Encoding: 61192 61192 436
 GlifName: uniE_F_08
 Width: 306
 GlyphClass: 2
@@ -23106,7 +23098,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEF09
-Encoding: 61193 61193 438
+Encoding: 61193 61193 437
 GlifName: uniE_F_09
 Width: 450
 VWidth: 0
@@ -23158,7 +23150,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEF0A
-Encoding: 61194 61194 439
+Encoding: 61194 61194 438
 GlifName: uniE_F_0A_
 Width: 450
 VWidth: 0
@@ -23219,7 +23211,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni0327
-Encoding: 807 807 440
+Encoding: 807 807 439
 GlifName: uni0327
 Width: 0
 GlyphClass: 4
@@ -23263,7 +23255,7 @@ Colour: ff00
 EndChar
 
 StartChar: uni04750327
-Encoding: 59693 59693 441
+Encoding: 59693 59693 440
 GlifName: uni04750327
 Width: 520
 GlyphClass: 2
@@ -23321,7 +23313,7 @@ Colour: ffff00
 EndChar
 
 StartChar: uni04710327
-Encoding: 59694 59694 442
+Encoding: 59694 59694 441
 GlifName: uni04710327
 Width: 708
 GlyphClass: 2
@@ -23400,7 +23392,7 @@ Colour: ffff00
 EndChar
 
 StartChar: uniEF00
-Encoding: 61184 61184 443
+Encoding: 61184 61184 442
 GlifName: uniE_F_00
 Width: 380
 GlyphClass: 2
@@ -23430,7 +23422,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEF02
-Encoding: 61186 61186 444
+Encoding: 61186 61186 443
 GlifName: uniE_F_02
 Width: 380
 Flags: W
@@ -23459,7 +23451,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEF01
-Encoding: 61185 61185 445
+Encoding: 61185 61185 444
 GlifName: uniE_F_01
 Width: 380
 GlyphClass: 2
@@ -23503,7 +23495,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni29DF
-Encoding: 10719 10719 446
+Encoding: 10719 10719 445
 GlifName: uni29D_F_
 Width: 731
 Flags: W
@@ -23546,7 +23538,7 @@ Colour: ffff00
 EndChar
 
 StartChar: uni0332
-Encoding: 818 818 447
+Encoding: 818 818 446
 GlifName: uni0332
 Width: 0
 GlyphClass: 4
@@ -23579,7 +23571,7 @@ Colour: ffff00
 EndChar
 
 StartChar: uniEF03
-Encoding: 61187 61187 448
+Encoding: 61187 61187 447
 GlifName: uniE_F_03
 Width: 380
 GlyphClass: 2
@@ -23614,7 +23606,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni0323
-Encoding: 803 803 449
+Encoding: 803 803 448
 GlifName: uni0323
 Width: 0
 GlyphClass: 4
@@ -23639,7 +23631,7 @@ Colour: ff00
 EndChar
 
 StartChar: uniEF07
-Encoding: 61191 61191 450
+Encoding: 61191 61191 449
 GlifName: uniE_F_07
 Width: 0
 GlyphClass: 4
@@ -23666,7 +23658,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni032E
-Encoding: 814 814 451
+Encoding: 814 814 450
 GlifName: uni032E_
 Width: 0
 GlyphClass: 4
@@ -23697,7 +23689,7 @@ Colour: ffff00
 EndChar
 
 StartChar: uni2025
-Encoding: 8229 8229 452
+Encoding: 8229 8229 451
 GlifName: uni2025
 Width: 431
 Flags: W
@@ -23722,7 +23714,7 @@ Colour: ffff00
 EndChar
 
 StartChar: uni2024
-Encoding: 8228 8228 453
+Encoding: 8228 8228 452
 GlifName: uni2024
 Width: 216
 Flags: W
@@ -23742,7 +23734,7 @@ Colour: ffff00
 EndChar
 
 StartChar: uni2026
-Encoding: 8230 8230 454
+Encoding: 8230 8230 453
 GlifName: uni2026
 Width: 654
 Flags: W
@@ -23772,7 +23764,7 @@ Colour: ffff00
 EndChar
 
 StartChar: uni0358
-Encoding: 856 856 455
+Encoding: 856 856 454
 GlifName: uni0358
 Width: 0
 Flags: W
@@ -23798,7 +23790,7 @@ Colour: ff00
 EndChar
 
 StartChar: uniEF06
-Encoding: 61190 61190 456
+Encoding: 61190 61190 455
 GlifName: uniE_F_06
 Width: 0
 GlyphClass: 4
@@ -23825,7 +23817,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEF04
-Encoding: 61188 61188 457
+Encoding: 61188 61188 456
 GlifName: uniE_F_04
 Width: 0
 GlyphClass: 4
@@ -23856,7 +23848,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEF05
-Encoding: 61189 61189 458
+Encoding: 61189 61189 457
 GlifName: uniE_F_05
 Width: 0
 GlyphClass: 4
@@ -23886,7 +23878,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEF0B
-Encoding: 61195 61195 459
+Encoding: 61195 61195 458
 GlifName: uniE_F_0B_
 Width: 0
 VWidth: 0
@@ -23909,7 +23901,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEF10
-Encoding: 61200 61200 460
+Encoding: 61200 61200 459
 GlifName: uniE_F_10
 Width: 417
 Flags: W
@@ -23935,7 +23927,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEF11
-Encoding: 61201 61201 461
+Encoding: 61201 61201 460
 GlifName: uniE_F_11
 Width: 494
 Flags: W
@@ -23966,7 +23958,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEF12
-Encoding: 61202 61202 462
+Encoding: 61202 61202 461
 GlifName: uniE_F_12
 Width: 417
 Flags: W
@@ -24002,7 +23994,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEF13
-Encoding: 61203 61203 463
+Encoding: 61203 61203 462
 GlifName: uniE_F_13
 Width: 554
 Flags: W
@@ -24043,7 +24035,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEF14
-Encoding: 61204 61204 464
+Encoding: 61204 61204 463
 GlifName: uniE_F_14
 Width: 566
 Flags: W
@@ -24089,7 +24081,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEF15
-Encoding: 61205 61205 465
+Encoding: 61205 61205 464
 GlifName: uniE_F_15
 Width: 842
 Flags: W
@@ -24145,7 +24137,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEF16
-Encoding: 61206 61206 466
+Encoding: 61206 61206 465
 GlifName: uniE_F_16
 Width: 843
 Flags: W
@@ -24211,7 +24203,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEF17
-Encoding: 61207 61207 467
+Encoding: 61207 61207 466
 GlifName: uniE_F_17
 Width: 843
 Flags: W
@@ -24283,7 +24275,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni0041.ss02
-Encoding: 62529 62529 468
+Encoding: 62529 62529 467
 GlifName: uni0041.ss02
 Width: 622
 GlyphClass: 2
@@ -24380,7 +24372,7 @@ Colour: ffffff
 EndChar
 
 StartChar: uni0042.ss02
-Encoding: 62530 62530 469
+Encoding: 62530 62530 468
 GlifName: uni0042.ss02
 Width: 788
 GlyphClass: 2
@@ -24506,7 +24498,7 @@ Colour: ffffff
 EndChar
 
 StartChar: uni0043.ss02
-Encoding: 62531 62531 470
+Encoding: 62531 62531 469
 GlifName: uni0043.ss02
 Width: 770
 GlyphClass: 2
@@ -24589,7 +24581,7 @@ Colour: ffffff
 EndChar
 
 StartChar: uni0044.ss02
-Encoding: 62532 62532 471
+Encoding: 62532 62532 470
 GlifName: uni0044.ss02
 Width: 932
 GlyphClass: 2
@@ -24700,7 +24692,7 @@ Colour: ffffff
 EndChar
 
 StartChar: uni0045.ss02
-Encoding: 62533 62533 472
+Encoding: 62533 62533 471
 GlifName: uni0045.ss02
 Width: 834
 GlyphClass: 2
@@ -24800,7 +24792,7 @@ Colour: ffffff
 EndChar
 
 StartChar: uni0046.ss02
-Encoding: 62534 62534 473
+Encoding: 62534 62534 472
 GlifName: uni0046.ss02
 Width: 924
 GlyphClass: 2
@@ -24893,7 +24885,7 @@ Colour: ffffff
 EndChar
 
 StartChar: uni0047.ss02
-Encoding: 62535 62535 474
+Encoding: 62535 62535 473
 GlifName: uni0047.ss02
 Width: 868
 GlyphClass: 2
@@ -25007,7 +24999,7 @@ Colour: ffffff
 EndChar
 
 StartChar: uni0048.ss02
-Encoding: 62536 62536 475
+Encoding: 62536 62536 474
 GlifName: uni0048.ss02
 Width: 874
 GlyphClass: 2
@@ -25163,7 +25155,7 @@ Colour: ffffff
 EndChar
 
 StartChar: uni0049.ss02
-Encoding: 62537 62537 476
+Encoding: 62537 62537 475
 GlifName: uni0049.ss02
 Width: 786
 GlyphClass: 2
@@ -25240,7 +25232,7 @@ Colour: ffffff
 EndChar
 
 StartChar: uni004A.ss02
-Encoding: 62538 62538 477
+Encoding: 62538 62538 476
 GlifName: uni004A_.ss02
 Width: 785
 GlyphClass: 2
@@ -25334,7 +25326,7 @@ Colour: ffffff
 EndChar
 
 StartChar: uni004B.ss02
-Encoding: 62539 62539 478
+Encoding: 62539 62539 477
 GlifName: uni004B_.ss02
 Width: 1054
 GlyphClass: 2
@@ -25493,7 +25485,7 @@ Colour: ffffff
 EndChar
 
 StartChar: uni004C.ss02
-Encoding: 62540 62540 479
+Encoding: 62540 62540 478
 GlifName: uni004C_.ss02
 Width: 838
 GlyphClass: 2
@@ -25597,7 +25589,7 @@ Validated: 19457
 EndChar
 
 StartChar: uni004D.ss02
-Encoding: 62541 62541 480
+Encoding: 62541 62541 479
 GlifName: uni004D_.ss02
 Width: 1263
 GlyphClass: 2
@@ -25755,7 +25747,7 @@ Colour: ffffff
 EndChar
 
 StartChar: uni004E.ss02
-Encoding: 62542 62542 481
+Encoding: 62542 62542 480
 GlifName: uni004E_.ss02
 Width: 958
 GlyphClass: 2
@@ -25891,7 +25883,7 @@ Colour: ffffff
 EndChar
 
 StartChar: uni004F.ss02
-Encoding: 62543 62543 482
+Encoding: 62543 62543 481
 GlifName: uni004F_.ss02
 Width: 945
 GlyphClass: 2
@@ -25979,7 +25971,7 @@ Colour: ffffff
 EndChar
 
 StartChar: uni0050.ss02
-Encoding: 62544 62544 483
+Encoding: 62544 62544 482
 GlifName: uni0050.ss02
 Width: 891
 GlyphClass: 2
@@ -26103,7 +26095,7 @@ Colour: ffffff
 EndChar
 
 StartChar: uni0051.ss02
-Encoding: 62545 62545 484
+Encoding: 62545 62545 483
 GlifName: uni0051.ss02
 Width: 990
 GlyphClass: 2
@@ -26222,7 +26214,7 @@ Colour: ffffff
 EndChar
 
 StartChar: uni0052.ss02
-Encoding: 62546 62546 485
+Encoding: 62546 62546 484
 GlifName: uni0052.ss02
 Width: 963
 GlyphClass: 2
@@ -26335,7 +26327,7 @@ Colour: ffffff
 EndChar
 
 StartChar: uni0053.ss02
-Encoding: 62547 62547 486
+Encoding: 62547 62547 485
 GlifName: uni0053.ss02
 Width: 919
 GlyphClass: 2
@@ -26455,7 +26447,7 @@ Colour: ffffff
 EndChar
 
 StartChar: uni0054.ss02
-Encoding: 62548 62548 487
+Encoding: 62548 62548 486
 GlifName: uni0054.ss02
 Width: 824
 GlyphClass: 2
@@ -26529,7 +26521,7 @@ Colour: ffffff
 EndChar
 
 StartChar: uni0055.ss02
-Encoding: 62549 62549 488
+Encoding: 62549 62549 487
 GlifName: uni0055.ss02
 Width: 1027
 GlyphClass: 2
@@ -26654,7 +26646,7 @@ Colour: ffffff
 EndChar
 
 StartChar: uni0056.ss02
-Encoding: 62550 62550 489
+Encoding: 62550 62550 488
 GlifName: uni0056.ss02
 Width: 1118
 GlyphClass: 2
@@ -26758,7 +26750,7 @@ Colour: ffffff
 EndChar
 
 StartChar: uni0057.ss02
-Encoding: 62551 62551 490
+Encoding: 62551 62551 489
 GlifName: uni0057.ss02
 Width: 1059
 GlyphClass: 2
@@ -26906,7 +26898,7 @@ Colour: ffffff
 EndChar
 
 StartChar: uni0058.ss02
-Encoding: 62552 62552 491
+Encoding: 62552 62552 490
 GlifName: uni0058.ss02
 Width: 610
 GlyphClass: 2
@@ -27000,7 +26992,7 @@ Colour: ffffff
 EndChar
 
 StartChar: uni0059.ss02
-Encoding: 62553 62553 492
+Encoding: 62553 62553 491
 GlifName: uni0059.ss02
 Width: 765
 GlyphClass: 2
@@ -27128,7 +27120,7 @@ Colour: ffffff
 EndChar
 
 StartChar: uni005A.ss02
-Encoding: 62554 62554 493
+Encoding: 62554 62554 492
 GlifName: uni005A_.ss02
 Width: 813
 GlyphClass: 2
@@ -27208,7 +27200,7 @@ Colour: ffffff
 EndChar
 
 StartChar: uni0061.ss02
-Encoding: 62561 62561 494
+Encoding: 62561 62561 493
 GlifName: uni0061.ss02
 Width: 506
 GlyphClass: 2
@@ -27284,7 +27276,7 @@ Colour: ffffff
 EndChar
 
 StartChar: uni0062.ss02
-Encoding: 62562 62562 495
+Encoding: 62562 62562 494
 GlifName: uni0062.ss02
 Width: 513
 GlyphClass: 2
@@ -27361,7 +27353,7 @@ Colour: ffffff
 EndChar
 
 StartChar: uni0063.ss02
-Encoding: 62563 62563 496
+Encoding: 62563 62563 495
 GlifName: uni0063.ss02
 Width: 392
 GlyphClass: 2
@@ -27413,7 +27405,7 @@ Colour: ffffff
 EndChar
 
 StartChar: uni0064.ss02
-Encoding: 62564 62564 497
+Encoding: 62564 62564 496
 GlifName: uni0064.ss02
 Width: 507
 GlyphClass: 2
@@ -27476,7 +27468,7 @@ Colour: ffffff
 EndChar
 
 StartChar: uni0065.ss02
-Encoding: 62565 62565 498
+Encoding: 62565 62565 497
 GlifName: uni0065.ss02
 Width: 438
 GlyphClass: 2
@@ -27532,7 +27524,7 @@ Colour: ffffff
 EndChar
 
 StartChar: uni0066.ss02
-Encoding: 62566 62566 499
+Encoding: 62566 62566 498
 GlifName: uni0066.ss02
 Width: 388
 GlyphClass: 2
@@ -27588,7 +27580,7 @@ Colour: ffffff
 EndChar
 
 StartChar: uni0067.ss02
-Encoding: 62567 62567 500
+Encoding: 62567 62567 499
 GlifName: uni0067.ss02
 Width: 591
 GlyphClass: 2
@@ -27678,7 +27670,7 @@ Colour: ffffff
 EndChar
 
 StartChar: uni0068.ss02
-Encoding: 62568 62568 501
+Encoding: 62568 62568 500
 GlifName: uni0068.ss02
 Width: 510
 GlyphClass: 2
@@ -27754,7 +27746,7 @@ Colour: ffffff
 EndChar
 
 StartChar: uni0069.ss02
-Encoding: 62569 62569 502
+Encoding: 62569 62569 501
 GlifName: uni0069.ss02
 Width: 302
 GlyphClass: 2
@@ -27804,7 +27796,7 @@ Colour: ffffff
 EndChar
 
 StartChar: uni006A.ss02
-Encoding: 62570 62570 503
+Encoding: 62570 62570 502
 GlifName: uni006A_.ss02
 Width: 333
 GlyphClass: 2
@@ -27855,7 +27847,7 @@ Colour: ffffff
 EndChar
 
 StartChar: uni006B.ss02
-Encoding: 62571 62571 504
+Encoding: 62571 62571 503
 GlifName: uni006B_.ss02
 Width: 562
 GlyphClass: 2
@@ -27949,7 +27941,7 @@ Colour: ffffff
 EndChar
 
 StartChar: uni006C.ss02
-Encoding: 62572 62572 505
+Encoding: 62572 62572 504
 GlifName: uni006C_.ss02
 Width: 290
 GlyphClass: 2
@@ -27993,7 +27985,7 @@ Colour: ffffff
 EndChar
 
 StartChar: uni006D.ss02
-Encoding: 62573 62573 506
+Encoding: 62573 62573 505
 GlifName: uni006D_.ss02
 Width: 841
 GlyphClass: 2
@@ -28093,7 +28085,7 @@ Colour: ffffff
 EndChar
 
 StartChar: uni006E.ss02
-Encoding: 62574 62574 507
+Encoding: 62574 62574 506
 GlifName: uni006E_.ss02
 Width: 570
 GlyphClass: 2
@@ -28158,7 +28150,7 @@ Colour: ffffff
 EndChar
 
 StartChar: uni006F.ss02
-Encoding: 62575 62575 508
+Encoding: 62575 62575 507
 GlifName: uni006F_.ss02
 Width: 487
 GlyphClass: 2
@@ -28209,7 +28201,7 @@ Colour: ffffff
 EndChar
 
 StartChar: uni0070.ss02
-Encoding: 62576 62576 509
+Encoding: 62576 62576 508
 GlifName: uni0070.ss02
 Width: 572
 GlyphClass: 2
@@ -28291,7 +28283,7 @@ Colour: ffffff
 EndChar
 
 StartChar: uni0071.ss02
-Encoding: 62577 62577 510
+Encoding: 62577 62577 509
 GlifName: uni0071.ss02
 Width: 532
 GlyphClass: 2
@@ -28353,7 +28345,7 @@ Colour: ffffff
 EndChar
 
 StartChar: uni0072.ss02
-Encoding: 62578 62578 511
+Encoding: 62578 62578 510
 GlifName: uni0072.ss02
 Width: 450
 GlyphClass: 2
@@ -28411,7 +28403,7 @@ Colour: ffffff
 EndChar
 
 StartChar: uni0073.ss02
-Encoding: 62579 62579 512
+Encoding: 62579 62579 511
 GlifName: uni0073.ss02
 Width: 574
 GlyphClass: 2
@@ -28497,7 +28489,7 @@ Colour: ffffff
 EndChar
 
 StartChar: uni0074.ss02
-Encoding: 62580 62580 513
+Encoding: 62580 62580 512
 GlifName: uni0074.ss02
 Width: 382
 GlyphClass: 2
@@ -28560,7 +28552,7 @@ Colour: ffffff
 EndChar
 
 StartChar: uni0075.ss02
-Encoding: 62581 62581 514
+Encoding: 62581 62581 513
 GlifName: uni0075.ss02
 Width: 587
 GlyphClass: 2
@@ -28626,7 +28618,7 @@ Colour: ffffff
 EndChar
 
 StartChar: uni0076.ss02
-Encoding: 62582 62582 515
+Encoding: 62582 62582 514
 GlifName: uni0076.ss02
 Width: 550
 GlyphClass: 2
@@ -28701,7 +28693,7 @@ Colour: ffffff
 EndChar
 
 StartChar: uni0077.ss02
-Encoding: 62583 62583 516
+Encoding: 62583 62583 515
 GlifName: uni0077.ss02
 Width: 809
 GlyphClass: 2
@@ -28800,7 +28792,7 @@ Colour: ffffff
 EndChar
 
 StartChar: uni0078.ss02
-Encoding: 62584 62584 517
+Encoding: 62584 62584 516
 GlifName: uni0078.ss02
 Width: 510
 GlyphClass: 2
@@ -28864,7 +28856,7 @@ Colour: ffffff
 EndChar
 
 StartChar: uni0079.ss02
-Encoding: 62585 62585 518
+Encoding: 62585 62585 517
 GlifName: uni0079.ss02
 Width: 533
 GlyphClass: 2
@@ -28931,7 +28923,7 @@ Colour: ffffff
 EndChar
 
 StartChar: uni007A.ss02
-Encoding: 62586 62586 519
+Encoding: 62586 62586 518
 GlifName: uni007A_.ss02
 Width: 418
 GlyphClass: 2
@@ -28992,7 +28984,7 @@ Colour: ffffff
 EndChar
 
 StartChar: uni00DE.ss02
-Encoding: 62686 62686 520
+Encoding: 62686 62686 519
 GlifName: uni00D_E_.ss02
 Width: 765
 GlyphClass: 2
@@ -29120,7 +29112,7 @@ Colour: ffffff
 EndChar
 
 StartChar: uni00FE.ss02
-Encoding: 62718 62718 521
+Encoding: 62718 62718 520
 GlifName: uni00F_E_.ss02
 Width: 533
 GlyphClass: 2
@@ -29189,7 +29181,7 @@ Colour: ffffff
 EndChar
 
 StartChar: uni017F.ss02
-Encoding: 62847 62847 522
+Encoding: 62847 62847 521
 GlifName: uni017F_.ss02
 Width: 306
 GlyphClass: 2
@@ -29235,7 +29227,7 @@ Colour: ffffff
 EndChar
 
 StartChar: uni2000
-Encoding: 8192 8192 523
+Encoding: 8192 8192 522
 GlifName: uni2000
 Width: 220
 Flags: W
@@ -29243,7 +29235,7 @@ LayerCount: 2
 EndChar
 
 StartChar: uni2001
-Encoding: 8193 8193 524
+Encoding: 8193 8193 523
 GlifName: uni2001
 Width: 450
 Flags: W
@@ -29251,7 +29243,7 @@ LayerCount: 2
 EndChar
 
 StartChar: uni2002
-Encoding: 8194 8194 525
+Encoding: 8194 8194 524
 GlifName: uni2002
 Width: 220
 Flags: W
@@ -29259,7 +29251,7 @@ LayerCount: 2
 EndChar
 
 StartChar: uni2003
-Encoding: 8195 8195 526
+Encoding: 8195 8195 525
 GlifName: uni2003
 Width: 450
 Flags: W
@@ -29267,7 +29259,7 @@ LayerCount: 2
 EndChar
 
 StartChar: uni2004
-Encoding: 8196 8196 527
+Encoding: 8196 8196 526
 GlifName: uni2004
 Width: 150
 VWidth: 0
@@ -29276,7 +29268,7 @@ LayerCount: 2
 EndChar
 
 StartChar: uni2005
-Encoding: 8197 8197 528
+Encoding: 8197 8197 527
 GlifName: uni2005
 Width: 113
 VWidth: 0
@@ -29285,7 +29277,7 @@ LayerCount: 2
 EndChar
 
 StartChar: uni2006
-Encoding: 8198 8198 529
+Encoding: 8198 8198 528
 GlifName: uni2006
 Width: 75
 VWidth: 0
@@ -29294,7 +29286,7 @@ LayerCount: 2
 EndChar
 
 StartChar: uni2007
-Encoding: 8199 8199 530
+Encoding: 8199 8199 529
 GlifName: uni2007
 Width: 470
 VWidth: 0
@@ -29303,7 +29295,7 @@ LayerCount: 2
 EndChar
 
 StartChar: uni2008
-Encoding: 8200 8200 531
+Encoding: 8200 8200 530
 GlifName: uni2008
 Width: 216
 VWidth: 0
@@ -29312,7 +29304,7 @@ LayerCount: 2
 EndChar
 
 StartChar: uni2009
-Encoding: 8201 8201 532
+Encoding: 8201 8201 531
 GlifName: uni2009
 Width: 90
 VWidth: 0
@@ -29321,7 +29313,7 @@ LayerCount: 2
 EndChar
 
 StartChar: uni200A
-Encoding: 8202 8202 533
+Encoding: 8202 8202 532
 GlifName: uni200A_
 Width: 76
 Flags: W
@@ -29329,7 +29321,7 @@ LayerCount: 2
 EndChar
 
 StartChar: uni2010
-Encoding: 8208 8208 534
+Encoding: 8208 8208 533
 GlifName: uni2010
 Width: 375
 Flags: W
@@ -29351,7 +29343,7 @@ Substitution2: "'ss01' Cyrillic Hyphenation Char-1" uni005F
 EndChar
 
 StartChar: uni00660074
-Encoding: 64261 64261 535
+Encoding: 64261 64261 534
 GlifName: uni00660074
 Width: 603
 GlyphClass: 3
@@ -29416,7 +29408,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 20-1" uni0066 uni0074
 EndChar
 
 StartChar: uni00740074
-Encoding: 62481 62481 536
+Encoding: 62481 62481 535
 GlifName: uni00740074
 Width: 614
 GlyphClass: 3
@@ -29475,7 +29467,7 @@ Colour: ffffff
 EndChar
 
 StartChar: uni00660069
-Encoding: 64257 64257 537
+Encoding: 64257 64257 536
 GlifName: uni00660069
 Width: 560
 GlyphClass: 3
@@ -29533,7 +29525,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 20-1" uni0066 uni0069
 EndChar
 
 StartChar: uni00660066
-Encoding: 64256 64256 538
+Encoding: 64256 64256 537
 GlifName: uni00660066
 Width: 595
 GlyphClass: 3
@@ -29604,7 +29596,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 20-1" uni0066 uni0066
 EndChar
 
 StartChar: uni0066006a
-Encoding: 62482 62482 539
+Encoding: 62482 62482 538
 GlifName: uni0066006a
 Width: 484
 GlyphClass: 3
@@ -29664,7 +29656,7 @@ Colour: ffffff
 EndChar
 
 StartChar: uni00660062
-Encoding: 62483 62483 540
+Encoding: 62483 62483 539
 GlifName: uni00660062
 Width: 778
 GlyphClass: 3
@@ -29732,7 +29724,7 @@ Colour: ffffff
 EndChar
 
 StartChar: uni00540068
-Encoding: 62484 62484 541
+Encoding: 62484 62484 540
 GlifName: uni00540068
 Width: 1048
 GlyphClass: 3
@@ -29805,7 +29797,7 @@ Colour: ffffff
 EndChar
 
 StartChar: uni0066006c
-Encoding: 64258 64258 542
+Encoding: 64258 64258 541
 GlifName: uni0066006c
 Width: 559
 GlyphClass: 3
@@ -29863,7 +29855,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 20-1" uni0066 uni006C
 EndChar
 
 StartChar: uni003A.latin
-Encoding: 62496 62496 543
+Encoding: 62496 62496 542
 GlifName: uni003A_.latin
 Width: 236
 GlyphClass: 2
@@ -29889,7 +29881,7 @@ Colour: ffffff
 EndChar
 
 StartChar: uni003B.latin
-Encoding: 62497 62497 544
+Encoding: 62497 62497 543
 GlifName: uni003B_.latin
 Width: 236
 GlyphClass: 2
@@ -29918,7 +29910,7 @@ Colour: ffffff
 EndChar
 
 StartChar: uni002C.latin
-Encoding: 62498 62498 545
+Encoding: 62498 62498 544
 GlifName: uni002C_.latin
 Width: 220
 GlyphClass: 2
@@ -29942,7 +29934,7 @@ Colour: ffffff
 EndChar
 
 StartChar: uni002E.latin
-Encoding: 62499 62499 546
+Encoding: 62499 62499 545
 GlifName: uni002E_.latin
 Width: 220
 GlyphClass: 2
@@ -29963,7 +29955,7 @@ Colour: ffffff
 EndChar
 
 StartChar: u1F347
-Encoding: 127815 127815 547
+Encoding: 127815 127815 546
 GlifName: u1F_347
 Width: 928
 VWidth: 2048
@@ -30102,7 +30094,7 @@ Colour: ffff00
 EndChar
 
 StartChar: u1F377
-Encoding: 127863 127863 548
+Encoding: 127863 127863 547
 GlifName: u1F_377
 Width: 714
 VWidth: 2048
@@ -30231,7 +30223,7 @@ Colour: ffff00
 EndChar
 
 StartChar: u1F41F
-Encoding: 128031 128031 549
+Encoding: 128031 128031 548
 GlifName: u1F_41F_
 Width: 1438
 VWidth: 2048
@@ -30455,7 +30447,7 @@ Colour: ffff00
 EndChar
 
 StartChar: u1F311
-Encoding: 127761 127761 550
+Encoding: 127761 127761 549
 GlifName: u1F_311
 Width: 823
 VWidth: 2048
@@ -30480,7 +30472,7 @@ Colour: ffff00
 EndChar
 
 StartChar: u1F312
-Encoding: 127762 127762 551
+Encoding: 127762 127762 550
 GlifName: u1F_312
 Width: 807
 VWidth: 2048
@@ -30522,7 +30514,7 @@ Colour: ffff00
 EndChar
 
 StartChar: u1F313
-Encoding: 127763 127763 552
+Encoding: 127763 127763 551
 GlifName: u1F_313
 Width: 836
 VWidth: 2048
@@ -30556,7 +30548,7 @@ Colour: ffff00
 EndChar
 
 StartChar: u1F314
-Encoding: 127764 127764 553
+Encoding: 127764 127764 552
 GlifName: u1F_314
 Width: 846
 VWidth: 2048
@@ -30590,7 +30582,7 @@ Colour: ffff00
 EndChar
 
 StartChar: u1F315
-Encoding: 127765 127765 554
+Encoding: 127765 127765 553
 GlifName: u1F_315
 Width: 805
 VWidth: 2048
@@ -30624,7 +30616,7 @@ Colour: ffff00
 EndChar
 
 StartChar: u1F316
-Encoding: 127766 127766 555
+Encoding: 127766 127766 554
 GlifName: u1F_316
 Width: 810
 VWidth: 2048
@@ -30659,7 +30651,7 @@ Colour: ffff00
 EndChar
 
 StartChar: u1F317
-Encoding: 127767 127767 556
+Encoding: 127767 127767 555
 GlifName: u1F_317
 Width: 779
 VWidth: 2048
@@ -30693,7 +30685,7 @@ Colour: ffff00
 EndChar
 
 StartChar: u1F318
-Encoding: 127768 127768 557
+Encoding: 127768 127768 556
 GlifName: u1F_318
 Width: 836
 VWidth: 2048
@@ -30733,7 +30725,7 @@ Colour: ffff00
 EndChar
 
 StartChar: uni263D
-Encoding: 9789 9789 558
+Encoding: 9789 9789 557
 GlifName: uni263D_
 Width: 487
 VWidth: 2048
@@ -30778,7 +30770,7 @@ Colour: ffff00
 EndChar
 
 StartChar: uni263E
-Encoding: 9790 9790 559
+Encoding: 9790 9790 558
 GlifName: uni263E_
 Width: 490
 VWidth: 2048
@@ -30822,7 +30814,7 @@ Colour: ffff00
 EndChar
 
 StartChar: u1F319
-Encoding: 127769 127769 560
+Encoding: 127769 127769 559
 GlifName: u1F_319
 Width: 834
 VWidth: 2048
@@ -30866,7 +30858,7 @@ Colour: ffff00
 EndChar
 
 StartChar: uniFFFD
-Encoding: 65533 65533 561
+Encoding: 65533 65533 560
 GlifName: uniF_F_F_D_
 Width: 729
 GlyphClass: 2
@@ -30904,7 +30896,7 @@ Validated: 19457
 EndChar
 
 StartChar: uniFFF9
-Encoding: 65529 65529 562
+Encoding: 65529 65529 561
 GlifName: uniF_F_F_9
 Width: 0
 VWidth: 0
@@ -30913,7 +30905,7 @@ LayerCount: 2
 EndChar
 
 StartChar: uniFFFA
-Encoding: 65530 65530 563
+Encoding: 65530 65530 562
 GlifName: uniF_F_F_A_
 Width: 0
 VWidth: 0
@@ -30922,7 +30914,7 @@ LayerCount: 2
 EndChar
 
 StartChar: uniFFFB
-Encoding: 65531 65531 564
+Encoding: 65531 65531 563
 GlifName: uniF_F_F_B_
 Width: 0
 VWidth: 0
@@ -30931,7 +30923,7 @@ LayerCount: 2
 EndChar
 
 StartChar: uniFFFC
-Encoding: 65532 65532 565
+Encoding: 65532 65532 564
 GlifName: uniF_F_F_C_
 Width: 801
 VWidth: 2048
@@ -31707,7 +31699,7 @@ Validated: 19457
 EndChar
 
 StartChar: uniEC45
-Encoding: 60485 60485 566
+Encoding: 60485 60485 565
 GlifName: uniE_C_45
 Width: 802
 VWidth: 2048
@@ -32521,7 +32513,7 @@ Colour: ff0000
 EndChar
 
 StartChar: uniEC46
-Encoding: 60486 60486 567
+Encoding: 60486 60486 566
 GlifName: uniE_C_46
 Width: 817
 VWidth: 2048
@@ -33299,7 +33291,7 @@ Colour: ff0000
 EndChar
 
 StartChar: uniEC47
-Encoding: 60487 60487 568
+Encoding: 60487 60487 567
 GlifName: uniE_C_47
 Width: 797
 VWidth: 2048
@@ -34097,7 +34089,7 @@ Colour: ff0000
 EndChar
 
 StartChar: uni2060
-Encoding: 8288 8288 569
+Encoding: 8288 8288 568
 GlifName: uni2060
 Width: 0
 Flags: W
@@ -34106,7 +34098,7 @@ Colour: ff00
 EndChar
 
 StartChar: uniEC48
-Encoding: 60488 60488 570
+Encoding: 60488 60488 569
 GlifName: uniE_C_48
 Width: 797
 VWidth: 2048
@@ -34873,7 +34865,7 @@ Colour: ff0000
 EndChar
 
 StartChar: uniEC49
-Encoding: 60489 60489 571
+Encoding: 60489 60489 570
 GlifName: uniE_C_49
 Width: 781
 VWidth: 2048
@@ -35706,7 +35698,7 @@ Colour: ff0000
 EndChar
 
 StartChar: uniEC50
-Encoding: 60496 60496 572
+Encoding: 60496 60496 571
 GlifName: uniE_C_50
 Width: 756
 VWidth: 2048
@@ -36511,7 +36503,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1F540.bmp
-Encoding: 62464 62464 573
+Encoding: 62464 62464 572
 GlifName: u1F_540.bmp
 Width: 789
 GlyphClass: 2
@@ -36570,7 +36562,7 @@ Colour: ffffff
 EndChar
 
 StartChar: u1F541.bmp
-Encoding: 62465 62465 574
+Encoding: 62465 62465 573
 GlifName: u1F_541.bmp
 Width: 800
 GlyphClass: 2
@@ -36626,7 +36618,7 @@ Colour: ffffff
 EndChar
 
 StartChar: u1F542.bmp
-Encoding: 62466 62466 575
+Encoding: 62466 62466 574
 GlifName: u1F_542.bmp
 Width: 645
 GlyphClass: 2
@@ -36667,7 +36659,7 @@ Colour: ffffff
 EndChar
 
 StartChar: u1F543.bmp
-Encoding: 62467 62467 576
+Encoding: 62467 62467 575
 GlifName: u1F_543.bmp
 Width: 705
 Flags: W
@@ -36740,7 +36732,7 @@ Colour: ffffff
 EndChar
 
 StartChar: u1F544.bmp
-Encoding: 62468 62468 577
+Encoding: 62468 62468 576
 GlifName: u1F_544.bmp
 Width: 711
 GlyphClass: 2
@@ -36811,7 +36803,7 @@ Colour: ffffff
 EndChar
 
 StartChar: u1F545.bmp
-Encoding: 62469 62469 578
+Encoding: 62469 62469 577
 GlifName: u1F_545.bmp
 Width: 747
 GlyphClass: 2
@@ -36904,7 +36896,7 @@ Colour: ffffff
 EndChar
 
 StartChar: uni0305
-Encoding: 773 773 579
+Encoding: 773 773 578
 GlifName: uni0305
 Width: 0
 GlyphClass: 4
@@ -36928,7 +36920,7 @@ Colour: ff00ff
 EndChar
 
 StartChar: uni0304
-Encoding: 772 772 580
+Encoding: 772 772 579
 GlifName: uni0304
 Width: 0
 GlyphClass: 4
@@ -36954,7 +36946,7 @@ Colour: ff00ff
 EndChar
 
 StartChar: uni0494
-Encoding: 1172 1172 581
+Encoding: 1172 1172 580
 GlifName: uni0494
 Width: 572
 GlyphClass: 2
@@ -37006,7 +36998,7 @@ Colour: ff00ff
 EndChar
 
 StartChar: uni0495
-Encoding: 1173 1173 582
+Encoding: 1173 1173 581
 GlifName: uni0495
 Width: 386
 GlyphClass: 2
@@ -37060,7 +37052,7 @@ Colour: ff00ff
 EndChar
 
 StartChar: uni052A
-Encoding: 1322 1322 583
+Encoding: 1322 1322 582
 GlifName: uni052A_
 Width: 1450
 GlyphClass: 2
@@ -37179,7 +37171,7 @@ Colour: ff00ff
 EndChar
 
 StartChar: uni052B
-Encoding: 1323 1323 584
+Encoding: 1323 1323 583
 GlifName: uni052B_
 Width: 837
 GlyphClass: 2
@@ -37266,7 +37258,7 @@ Colour: ff00ff
 EndChar
 
 StartChar: uni04E8
-Encoding: 1256 1256 585
+Encoding: 1256 1256 584
 GlifName: uni04E_8
 Width: 589
 GlyphClass: 2
@@ -37315,7 +37307,7 @@ Colour: ff00ff
 EndChar
 
 StartChar: uni04E9
-Encoding: 1257 1257 586
+Encoding: 1257 1257 585
 GlifName: uni04E_9
 Width: 450
 Flags: W
@@ -37362,7 +37354,7 @@ Colour: ff00ff
 EndChar
 
 StartChar: uni04AF
-Encoding: 1199 1199 587
+Encoding: 1199 1199 586
 GlifName: uni04A_F_
 Width: 520
 GlyphClass: 2
@@ -37421,7 +37413,7 @@ Colour: ff00ff
 EndChar
 
 StartChar: uni04AE
-Encoding: 1198 1198 588
+Encoding: 1198 1198 587
 GlifName: uni04A_E_
 Width: 682
 GlyphClass: 2
@@ -37480,7 +37472,7 @@ Colour: ff00ff
 EndChar
 
 StartChar: uni04BB
-Encoding: 1211 1211 589
+Encoding: 1211 1211 588
 GlifName: uni04B_B_
 Width: 420
 GlyphClass: 2
@@ -37521,7 +37513,7 @@ Colour: ff00ff
 EndChar
 
 StartChar: uni04BA
-Encoding: 1210 1210 590
+Encoding: 1210 1210 589
 GlifName: uni04B_A_
 Width: 581
 GlyphClass: 2
@@ -37566,7 +37558,7 @@ Colour: ff00ff
 EndChar
 
 StartChar: uniA641.trunc
-Encoding: 57568 57568 591
+Encoding: 57568 57568 590
 GlifName: uniA_641.trunc
 Width: 449
 Flags: W
@@ -37606,7 +37598,7 @@ Colour: ff00
 EndChar
 
 StartChar: uni0440.trunc
-Encoding: 57569 57569 592
+Encoding: 57569 57569 591
 GlifName: uni0440.trunc
 Width: 351
 GlyphClass: 2
@@ -37649,7 +37641,7 @@ Colour: ff00
 EndChar
 
 StartChar: uniA64B.short3
-Encoding: 57571 57571 593
+Encoding: 57571 57571 592
 GlifName: uniA_64B_.short3
 Width: 464
 GlyphClass: 2
@@ -37699,7 +37691,7 @@ Colour: ff00
 EndChar
 
 StartChar: uni0444.trunc1
-Encoding: 57573 57573 594
+Encoding: 57573 57573 593
 GlifName: uni0444.trunc1
 Width: 712
 GlyphClass: 2
@@ -37765,7 +37757,7 @@ Colour: ff00
 EndChar
 
 StartChar: uni0444.trunc2
-Encoding: 57574 57574 595
+Encoding: 57574 57574 594
 GlifName: uni0444.trunc2
 Width: 712
 GlyphClass: 2
@@ -37831,7 +37823,7 @@ Colour: ff00
 EndChar
 
 StartChar: uni0445.trunc1
-Encoding: 57575 57575 596
+Encoding: 57575 57575 595
 GlifName: uni0445.trunc1
 Width: 475
 GlyphClass: 2
@@ -37882,7 +37874,7 @@ Colour: ff00
 EndChar
 
 StartChar: uni0445.trunc2
-Encoding: 57576 57576 597
+Encoding: 57576 57576 596
 GlifName: uni0445.trunc2
 Width: 475
 GlyphClass: 2
@@ -37934,7 +37926,7 @@ Colour: ff00
 EndChar
 
 StartChar: uni0445.trunc3
-Encoding: 57577 57577 598
+Encoding: 57577 57577 597
 GlifName: uni0445.trunc3
 Width: 475
 GlyphClass: 2
@@ -37982,7 +37974,7 @@ Colour: ff00
 EndChar
 
 StartChar: uni0446.trunc
-Encoding: 57578 57578 599
+Encoding: 57578 57578 598
 GlifName: uni0446.trunc
 Width: 549
 GlyphClass: 2
@@ -38030,7 +38022,7 @@ Colour: ff00
 EndChar
 
 StartChar: uni0449.trunc
-Encoding: 57579 57579 600
+Encoding: 57579 57579 599
 GlifName: uni0449.trunc
 Width: 806
 GlyphClass: 2
@@ -38081,7 +38073,7 @@ Colour: ff00
 EndChar
 
 StartChar: u1F545.alt5
-Encoding: 58836 58836 601
+Encoding: 58836 58836 600
 GlifName: u1F_545.alt5
 Width: 939
 GlyphClass: 2
@@ -38261,7 +38253,7 @@ Colour: ff00
 EndChar
 
 StartChar: uni0471.alt2
-Encoding: 57582 57582 602
+Encoding: 57582 57582 601
 GlifName: uni0471.alt2
 Width: 708
 VWidth: 0
@@ -38331,7 +38323,7 @@ Colour: ff00
 EndChar
 
 StartChar: uni0443.alt
-Encoding: 57583 57583 603
+Encoding: 57583 57583 602
 GlifName: uni0443.alt
 Width: 546
 VWidth: 0
@@ -38382,7 +38374,7 @@ Colour: ff00
 EndChar
 
 StartChar: u1F545.alt6
-Encoding: 58837 58837 604
+Encoding: 58837 58837 603
 GlifName: u1F_545.alt6
 Width: 857
 VWidth: 0
@@ -38462,7 +38454,7 @@ Colour: ff00
 EndChar
 
 StartChar: u1F545.alt7
-Encoding: 58838 58838 605
+Encoding: 58838 58838 604
 GlifName: u1F_545.alt7
 Width: 675
 VWidth: 0
@@ -38621,7 +38613,7 @@ Colour: ff00
 EndChar
 
 StartChar: u1F545.alt8
-Encoding: 58839 58839 606
+Encoding: 58839 58839 605
 GlifName: u1F_545.alt8
 Width: 1251
 VWidth: 0
@@ -38904,7 +38896,7 @@ Colour: ff00
 EndChar
 
 StartChar: uni00C0
-Encoding: 192 192 607
+Encoding: 192 192 606
 GlifName: uni00C_0
 Width: 694
 GlyphClass: 3
@@ -38956,7 +38948,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni00C7
-Encoding: 199 199 608
+Encoding: 199 199 607
 GlifName: uni00C_7
 Width: 646
 VWidth: 999
@@ -39002,7 +38994,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni00C8
-Encoding: 200 200 609
+Encoding: 200 200 608
 GlifName: uni00C_8
 Width: 542
 Flags: W
@@ -39066,7 +39058,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni00C9
-Encoding: 201 201 610
+Encoding: 201 201 609
 GlifName: uni00C_9
 Width: 542
 Flags: W
@@ -39130,7 +39122,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni00CA
-Encoding: 202 202 611
+Encoding: 202 202 610
 GlifName: uni00C_A_
 Width: 570
 GlyphClass: 3
@@ -39244,7 +39236,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni00CB
-Encoding: 203 203 612
+Encoding: 203 203 611
 GlifName: uni00C_B_
 Width: 542
 GlyphClass: 3
@@ -39312,7 +39304,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni00CF
-Encoding: 207 207 613
+Encoding: 207 207 612
 GlifName: uni00C_F_
 Width: 347
 GlyphClass: 3
@@ -39365,7 +39357,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni00D1
-Encoding: 209 209 614
+Encoding: 209 209 613
 GlifName: uni00D_1
 Width: 708
 GlyphClass: 3
@@ -39426,7 +39418,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni00D4
-Encoding: 212 212 615
+Encoding: 212 212 614
 GlifName: uni00D_4
 Width: 750
 GlyphClass: 3
@@ -39468,7 +39460,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni00D6
-Encoding: 214 214 616
+Encoding: 214 214 615
 GlifName: uni00D_6
 Width: 750
 GlyphClass: 3
@@ -39521,7 +39513,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni00E0
-Encoding: 224 224 617
+Encoding: 224 224 616
 GlifName: uni00E_0
 Width: 444
 GlyphClass: 3
@@ -39588,7 +39580,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni00E7
-Encoding: 231 231 618
+Encoding: 231 231 617
 GlifName: uni00E_7
 Width: 428
 VWidth: 999
@@ -39631,7 +39623,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni00E8
-Encoding: 232 232 619
+Encoding: 232 232 618
 GlifName: uni00E_8
 Width: 438
 GlyphClass: 3
@@ -39674,7 +39666,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni00E9
-Encoding: 233 233 620
+Encoding: 233 233 619
 GlifName: uni00E_9
 Width: 438
 GlyphClass: 2
@@ -39717,7 +39709,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni00EA
-Encoding: 234 234 621
+Encoding: 234 234 620
 GlifName: uni00E_A_
 Width: 438
 GlyphClass: 2
@@ -39760,7 +39752,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni00EB
-Encoding: 235 235 622
+Encoding: 235 235 621
 GlifName: uni00E_B_
 Width: 438
 GlyphClass: 3
@@ -39804,7 +39796,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni00EF
-Encoding: 239 239 623
+Encoding: 239 239 622
 GlifName: uni00E_F_
 Width: 273
 GlyphClass: 3
@@ -39852,7 +39844,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni00F1
-Encoding: 241 241 624
+Encoding: 241 241 623
 GlifName: uni00F_1
 Width: 566
 GlyphClass: 3
@@ -39914,7 +39906,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni00F4
-Encoding: 244 244 625
+Encoding: 244 244 624
 GlifName: uni00F_4
 Width: 513
 GlyphClass: 3
@@ -39957,7 +39949,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni00F6
-Encoding: 246 246 626
+Encoding: 246 246 625
 GlifName: uni00F_6
 Width: 513
 GlyphClass: 3
@@ -40010,7 +40002,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni0302
-Encoding: 770 770 627
+Encoding: 770 770 626
 GlifName: uni0302
 Width: 0
 GlyphClass: 4
@@ -40038,7 +40030,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni0303
-Encoding: 771 771 628
+Encoding: 771 771 627
 GlifName: uni0303
 Width: 0
 GlyphClass: 4
@@ -40067,7 +40059,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEC4A
-Encoding: 60490 60490 629
+Encoding: 60490 60490 628
 GlifName: uniE_C_4A_
 Width: 756
 VWidth: 2048
@@ -40828,7 +40820,7 @@ Colour: ff0000
 EndChar
 
 StartChar: uniEC4B
-Encoding: 60491 60491 630
+Encoding: 60491 60491 629
 GlifName: uniE_C_4B_
 Width: 853
 VWidth: 2048
@@ -41616,7 +41608,7 @@ Colour: ff0000
 EndChar
 
 StartChar: uniEF20
-Encoding: 61216 61216 631
+Encoding: 61216 61216 630
 GlifName: uniE_F_20
 Width: 789
 GlyphClass: 2
@@ -41663,7 +41655,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniF600
-Encoding: 62976 62976 632
+Encoding: 62976 62976 631
 GlifName: uniF_600
 Width: 789
 GlyphClass: 2
@@ -41709,7 +41701,7 @@ Validated: 19457
 EndChar
 
 StartChar: uniF601
-Encoding: 62977 62977 633
+Encoding: 62977 62977 632
 GlifName: uniF_601
 Width: 453
 GlyphClass: 2
@@ -41737,7 +41729,7 @@ Validated: 19457
 EndChar
 
 StartChar: uniF602
-Encoding: 62978 62978 634
+Encoding: 62978 62978 633
 GlifName: uniF_602
 Width: 453
 GlyphClass: 2
@@ -41772,7 +41764,7 @@ Validated: 19457
 EndChar
 
 StartChar: uniF603
-Encoding: 62979 62979 635
+Encoding: 62979 62979 634
 GlifName: uniF_603
 Width: 789
 GlyphClass: 2
@@ -41818,7 +41810,7 @@ Validated: 19457
 EndChar
 
 StartChar: uniEF21
-Encoding: 61217 61217 636
+Encoding: 61217 61217 635
 GlifName: uniE_F_21
 Width: 800
 GlyphClass: 2
@@ -41858,7 +41850,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniF604
-Encoding: 62980 62980 637
+Encoding: 62980 62980 636
 GlifName: uniF_604
 Width: 800
 GlyphClass: 2
@@ -41897,7 +41889,7 @@ Validated: 19457
 EndChar
 
 StartChar: uniF605
-Encoding: 62981 62981 638
+Encoding: 62981 62981 637
 GlifName: uniF_605
 Width: 544
 VWidth: 0
@@ -41928,7 +41920,7 @@ Validated: 19457
 EndChar
 
 StartChar: uniF606
-Encoding: 62982 62982 639
+Encoding: 62982 62982 638
 GlifName: uniF_606
 Width: 544
 VWidth: 0
@@ -41959,7 +41951,7 @@ Validated: 19457
 EndChar
 
 StartChar: uniEF22
-Encoding: 61218 61218 640
+Encoding: 61218 61218 639
 GlifName: uniE_F_22
 Width: 274
 GlyphClass: 2
@@ -41990,7 +41982,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEF23
-Encoding: 61219 61219 641
+Encoding: 61219 61219 640
 GlifName: uniE_F_23
 Width: 544
 VWidth: 0
@@ -42032,7 +42024,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEF24
-Encoding: 61220 61220 642
+Encoding: 61220 61220 641
 GlifName: uniE_F_24
 Width: 563
 VWidth: 0
@@ -42069,7 +42061,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEF25
-Encoding: 61221 61221 643
+Encoding: 61221 61221 642
 GlifName: uniE_F_25
 Width: 540
 VWidth: 0
@@ -42106,7 +42098,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEF26
-Encoding: 61222 61222 644
+Encoding: 61222 61222 643
 GlifName: uniE_F_26
 Width: 500
 VWidth: 0
@@ -42148,7 +42140,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEF27
-Encoding: 61223 61223 645
+Encoding: 61223 61223 644
 GlifName: uniE_F_27
 Width: 500
 VWidth: 0
@@ -42180,7 +42172,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEF28
-Encoding: 61224 61224 646
+Encoding: 61224 61224 645
 GlifName: uniE_F_28
 Width: 500
 VWidth: 0
@@ -42220,7 +42212,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEF29
-Encoding: 61225 61225 647
+Encoding: 61225 61225 646
 GlifName: uniE_F_29
 Width: 500
 VWidth: 0
@@ -42252,7 +42244,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEF2A
-Encoding: 61226 61226 648
+Encoding: 61226 61226 647
 GlifName: uniE_F_2A_
 Width: 500
 VWidth: 0
@@ -42294,7 +42286,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEF2B
-Encoding: 61227 61227 649
+Encoding: 61227 61227 648
 GlifName: uniE_F_2B_
 Width: 793
 GlyphClass: 2
@@ -42333,7 +42325,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEF2C
-Encoding: 61228 61228 650
+Encoding: 61228 61228 649
 GlifName: uniE_F_2C_
 Width: 793
 GlyphClass: 2
@@ -42377,7 +42369,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEF2D
-Encoding: 61229 61229 651
+Encoding: 61229 61229 650
 GlifName: uniE_F_2D_
 Width: 392
 VWidth: 0
@@ -42409,7 +42401,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEF2E
-Encoding: 61230 61230 652
+Encoding: 61230 61230 651
 GlifName: uniE_F_2E_
 Width: 514
 VWidth: 0
@@ -42457,7 +42449,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEF2F
-Encoding: 61231 61231 653
+Encoding: 61231 61231 652
 GlifName: uniE_F_2F_
 Width: 703
 GlyphClass: 2
@@ -42532,7 +42524,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEF30
-Encoding: 61232 61232 654
+Encoding: 61232 61232 653
 GlifName: uniE_F_30
 Width: 654
 GlyphClass: 2
@@ -42576,7 +42568,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEF31
-Encoding: 61233 61233 655
+Encoding: 61233 61233 654
 GlifName: uniE_F_31
 Width: 580
 GlyphClass: 2
@@ -42615,7 +42607,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEF32
-Encoding: 61234 61234 656
+Encoding: 61234 61234 655
 GlifName: uniE_F_32
 Width: 580
 GlyphClass: 2
@@ -42649,7 +42641,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEF33
-Encoding: 61235 61235 657
+Encoding: 61235 61235 656
 GlifName: uniE_F_33
 Width: 580
 GlyphClass: 2
@@ -42688,7 +42680,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEF34
-Encoding: 61236 61236 658
+Encoding: 61236 61236 657
 GlifName: uniE_F_34
 Width: 950
 VWidth: 0
@@ -42752,7 +42744,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEF35
-Encoding: 61237 61237 659
+Encoding: 61237 61237 658
 GlifName: uniE_F_35
 Width: 552
 GlyphClass: 2
@@ -42792,7 +42784,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEF36
-Encoding: 61238 61238 660
+Encoding: 61238 61238 659
 GlifName: uniE_F_36
 Width: 448
 VWidth: 0
@@ -42829,7 +42821,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEF37
-Encoding: 61239 61239 661
+Encoding: 61239 61239 660
 GlifName: uniE_F_37
 Width: 500
 VWidth: 0
@@ -42869,7 +42861,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni1DF6
-Encoding: 7670 7670 662
+Encoding: 7670 7670 661
 GlifName: uni1D_F_6
 Width: 0
 GlyphClass: 4
@@ -42900,7 +42892,7 @@ Colour: ff0000
 EndChar
 
 StartChar: uni1DF7
-Encoding: 7671 7671 663
+Encoding: 7671 7671 662
 GlifName: uni1D_F_7
 Width: 0
 GlyphClass: 4
@@ -42930,7 +42922,7 @@ Colour: ff0000
 EndChar
 
 StartChar: uni1DF8
-Encoding: 7672 7672 664
+Encoding: 7672 7672 663
 GlifName: uni1D_F_8
 Width: 0
 GlyphClass: 4
@@ -42957,7 +42949,7 @@ Colour: ff0000
 EndChar
 
 StartChar: uni1DF9
-Encoding: 7673 7673 665
+Encoding: 7673 7673 664
 GlifName: uni1D_F_9
 Width: 0
 GlyphClass: 4
@@ -42984,7 +42976,7 @@ Colour: ff0000
 EndChar
 
 StartChar: uni2E45
-Encoding: 11845 11845 666
+Encoding: 11845 11845 665
 GlifName: uni2E_45
 Width: 380
 GlyphClass: 2
@@ -43014,7 +43006,7 @@ Colour: ff0000
 EndChar
 
 StartChar: uni2E46
-Encoding: 11846 11846 667
+Encoding: 11846 11846 666
 GlifName: uni2E_46
 Width: 380
 GlyphClass: 2
@@ -43058,7 +43050,7 @@ Colour: ff0000
 EndChar
 
 StartChar: uni2E47
-Encoding: 11847 11847 668
+Encoding: 11847 11847 667
 GlifName: uni2E_47
 Width: 380
 GlyphClass: 2
@@ -43088,7 +43080,7 @@ Colour: ff0000
 EndChar
 
 StartChar: uni2E48
-Encoding: 11848 11848 669
+Encoding: 11848 11848 668
 GlifName: uni2E_48
 Width: 380
 GlyphClass: 2
@@ -43123,7 +43115,7 @@ Colour: ff0000
 EndChar
 
 StartChar: uni2E49
-Encoding: 11849 11849 670
+Encoding: 11849 11849 669
 GlifName: uni2E_49
 Width: 306
 GlyphClass: 2
@@ -43165,7 +43157,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1F900
-Encoding: 129280 129280 671
+Encoding: 129280 129280 670
 GlifName: u1F_900
 Width: 843
 GlyphClass: 2
@@ -43238,7 +43230,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1F901
-Encoding: 129281 129281 672
+Encoding: 129281 129281 671
 GlifName: u1F_901
 Width: 843
 GlyphClass: 2
@@ -43305,7 +43297,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1F902
-Encoding: 129282 129282 673
+Encoding: 129282 129282 672
 GlifName: u1F_902
 Width: 842
 GlyphClass: 2
@@ -43362,7 +43354,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1F903
-Encoding: 129283 129283 674
+Encoding: 129283 129283 673
 GlifName: u1F_903
 Width: 566
 GlyphClass: 2
@@ -43409,7 +43401,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1F904
-Encoding: 129284 129284 675
+Encoding: 129284 129284 674
 GlifName: u1F_904
 Width: 554
 GlyphClass: 2
@@ -43451,7 +43443,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1F905
-Encoding: 129285 129285 676
+Encoding: 129285 129285 675
 GlifName: u1F_905
 Width: 417
 GlyphClass: 2
@@ -43488,7 +43480,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1F906
-Encoding: 129286 129286 677
+Encoding: 129286 129286 676
 GlifName: u1F_906
 Width: 494
 GlyphClass: 2
@@ -43520,7 +43512,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1F907
-Encoding: 129287 129287 678
+Encoding: 129287 129287 677
 GlifName: u1F_907
 Width: 417
 GlyphClass: 2
@@ -43547,7 +43539,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1F908
-Encoding: 129288 129288 679
+Encoding: 129288 129288 678
 GlifName: u1F_908
 Width: 450
 VWidth: 0
@@ -43599,7 +43591,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1F909
-Encoding: 129289 129289 680
+Encoding: 129289 129289 679
 GlifName: u1F_909
 Width: 450
 VWidth: 0
@@ -43660,7 +43652,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1F90A
-Encoding: 129290 129290 681
+Encoding: 129290 129290 680
 GlifName: u1F_90A_
 Width: 450
 VWidth: 0
@@ -43717,7 +43709,7 @@ Colour: ff0000
 EndChar
 
 StartChar: u1F90B
-Encoding: 129291 129291 682
+Encoding: 129291 129291 681
 GlifName: u1F_90B_
 Width: 450
 VWidth: 0
@@ -43783,7 +43775,7 @@ Colour: ff0000
 EndChar
 
 StartChar: uni0423.var
-Encoding: 58302 58302 683
+Encoding: 58302 58302 682
 GlifName: uni0423.var
 Width: 714
 GlyphClass: 2
@@ -43803,7 +43795,7 @@ Colour: ff00
 EndChar
 
 StartChar: uni040E.var
-Encoding: 58303 58303 684
+Encoding: 58303 58303 683
 GlifName: uni040E_.var
 Width: 744
 VWidth: 0
@@ -43825,7 +43817,7 @@ Colour: ff00
 EndChar
 
 StartChar: uniEC4C
-Encoding: 60492 60492 685
+Encoding: 60492 60492 684
 GlifName: uniE_C_4C_
 Width: 281
 GlyphClass: 2
@@ -43847,7 +43839,7 @@ Validated: 19457
 EndChar
 
 StartChar: uniEC4D
-Encoding: 60493 60493 686
+Encoding: 60493 60493 685
 GlifName: uniE_C_4D_
 Width: 188
 GlyphClass: 2
@@ -43869,7 +43861,7 @@ Validated: 19457
 EndChar
 
 StartChar: uni0458.var
-Encoding: 57589 57589 687
+Encoding: 57589 57589 686
 GlifName: uni0458.var
 Width: 343
 GlyphClass: 2
@@ -43907,7 +43899,7 @@ Colour: ff00
 EndChar
 
 StartChar: uni0404.var
-Encoding: 57765 57765 688
+Encoding: 57765 57765 687
 GlifName: uni0404.var
 Width: 591
 Flags: W
@@ -43978,7 +43970,7 @@ Colour: ff00
 EndChar
 
 StartChar: uni0030
-Encoding: 48 48 689
+Encoding: 48 48 688
 GlifName: uni0030
 Width: 450
 VWidth: 487
@@ -44007,7 +43999,7 @@ Substitution2: "'ss02' Latin Blackletter chars-1" uni0030.ss02
 EndChar
 
 StartChar: uni0031
-Encoding: 49 49 690
+Encoding: 49 49 689
 GlifName: uni0031
 Width: 418
 VWidth: 999
@@ -44038,7 +44030,7 @@ Substitution2: "'ss02' Latin Blackletter chars-1" uni0031.ss02
 EndChar
 
 StartChar: uni0032
-Encoding: 50 50 691
+Encoding: 50 50 690
 GlifName: uni0032
 Width: 450
 VWidth: 487
@@ -44077,7 +44069,7 @@ Substitution2: "'ss02' Latin Blackletter chars-1" uni0032.ss02
 EndChar
 
 StartChar: uni0033
-Encoding: 51 51 692
+Encoding: 51 51 691
 GlifName: uni0033
 Width: 450
 VWidth: 487
@@ -44113,7 +44105,7 @@ Substitution2: "'ss02' Latin Blackletter chars-1" uni0033.ss02
 EndChar
 
 StartChar: uni0034
-Encoding: 52 52 693
+Encoding: 52 52 692
 GlifName: uni0034
 Width: 450
 VWidth: 487
@@ -44157,7 +44149,7 @@ Substitution2: "'ss02' Latin Blackletter chars-1" uni0034.ss02
 EndChar
 
 StartChar: u0035
-Encoding: 53 53 694
+Encoding: 53 53 693
 GlifName: u0035
 Width: 450
 VWidth: 487
@@ -44192,7 +44184,7 @@ Substitution2: "'ss02' Latin Blackletter chars-1" uni0035.ss02
 EndChar
 
 StartChar: uni0036
-Encoding: 54 54 695
+Encoding: 54 54 694
 GlifName: uni0036
 Width: 450
 VWidth: 487
@@ -44222,7 +44214,7 @@ Substitution2: "'ss02' Latin Blackletter chars-1" uni0036.ss02
 EndChar
 
 StartChar: uni0037
-Encoding: 55 55 696
+Encoding: 55 55 695
 GlifName: uni0037
 Width: 450
 VWidth: 487
@@ -44251,7 +44243,7 @@ Substitution2: "'ss02' Latin Blackletter chars-1" uni0037.ss02
 EndChar
 
 StartChar: uni0038
-Encoding: 56 56 697
+Encoding: 56 56 696
 GlifName: uni0038
 Width: 450
 VWidth: 487
@@ -44291,7 +44283,7 @@ Substitution2: "'ss02' Latin Blackletter chars-1" uni0038.ss02
 EndChar
 
 StartChar: uni0039
-Encoding: 57 57 698
+Encoding: 57 57 697
 GlifName: uni0039
 Width: 450
 VWidth: 487
@@ -44321,7 +44313,7 @@ Substitution2: "'ss02' Latin Blackletter chars-1" uni0039.ss02
 EndChar
 
 StartChar: uni005E
-Encoding: 94 94 699
+Encoding: 94 94 698
 GlifName: uni005E_
 Width: 450
 VWidth: 999
@@ -44344,7 +44336,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0460.alt
-Encoding: 58090 58090 700
+Encoding: 58090 58090 699
 GlifName: uni0460.alt
 Width: 1084
 Flags: W
@@ -44402,7 +44394,7 @@ EndSplineSet
 EndChar
 
 StartChar: asciitilde
-Encoding: 126 126 701
+Encoding: 126 126 700
 GlifName: asciitilde
 Width: 579
 Flags: W
@@ -44427,7 +44419,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni007F
-Encoding: 127 127 702
+Encoding: 127 127 701
 GlifName: uni007F_
 Width: 427
 Flags: W
@@ -44462,7 +44454,7 @@ EndSplineSet
 EndChar
 
 StartChar: exclamdown
-Encoding: 161 161 703
+Encoding: 161 161 702
 GlifName: exclamdown
 Width: 277
 Flags: W
@@ -44493,7 +44485,7 @@ EndSplineSet
 EndChar
 
 StartChar: cent
-Encoding: 162 162 704
+Encoding: 162 162 703
 GlifName: cent
 Width: 483
 Flags: W
@@ -44537,7 +44529,7 @@ EndSplineSet
 EndChar
 
 StartChar: sterling
-Encoding: 163 163 705
+Encoding: 163 163 704
 GlifName: sterling
 Width: 483
 Flags: W
@@ -44594,7 +44586,7 @@ EndSplineSet
 EndChar
 
 StartChar: yen
-Encoding: 165 165 706
+Encoding: 165 165 705
 GlifName: yen
 Width: 483
 Flags: W
@@ -44654,7 +44646,7 @@ EndSplineSet
 EndChar
 
 StartChar: brokenbar
-Encoding: 166 166 707
+Encoding: 166 166 706
 GlifName: brokenbar
 Width: 264
 Flags: W
@@ -44676,7 +44668,7 @@ EndSplineSet
 EndChar
 
 StartChar: dieresis
-Encoding: 168 168 708
+Encoding: 168 168 707
 GlifName: dieresis
 Width: 400
 Flags: W
@@ -44707,7 +44699,7 @@ EndSplineSet
 EndChar
 
 StartChar: copyright
-Encoding: 169 169 709
+Encoding: 169 169 708
 GlifName: copyright
 Width: 701
 Flags: W
@@ -44757,7 +44749,7 @@ EndSplineSet
 EndChar
 
 StartChar: ordfeminine
-Encoding: 170 170 710
+Encoding: 170 170 709
 GlifName: ordfeminine
 Width: 310
 Flags: W
@@ -44803,7 +44795,7 @@ EndSplineSet
 EndChar
 
 StartChar: registered
-Encoding: 174 174 711
+Encoding: 174 174 710
 GlifName: registered
 Width: 320
 Flags: W
@@ -44866,7 +44858,7 @@ EndSplineSet
 EndChar
 
 StartChar: macron
-Encoding: 175 175 712
+Encoding: 175 175 711
 GlifName: macron
 Width: 400
 Flags: W
@@ -44884,7 +44876,7 @@ EndSplineSet
 EndChar
 
 StartChar: plusminus
-Encoding: 177 177 713
+Encoding: 177 177 712
 GlifName: plusminus
 Width: 579
 Flags: W
@@ -44915,7 +44907,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni00B2
-Encoding: 178 178 714
+Encoding: 178 178 713
 GlifName: uni00B_2
 Width: 342
 Flags: W
@@ -44953,7 +44945,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni00B3
-Encoding: 179 179 715
+Encoding: 179 179 714
 GlifName: uni00B_3
 Width: 342
 Flags: W
@@ -44996,7 +44988,7 @@ EndSplineSet
 EndChar
 
 StartChar: mu
-Encoding: 181 181 716
+Encoding: 181 181 715
 GlifName: mu
 Width: 517
 Flags: W
@@ -45040,7 +45032,7 @@ EndSplineSet
 EndChar
 
 StartChar: cedilla
-Encoding: 184 184 717
+Encoding: 184 184 716
 GlifName: cedilla
 Width: 400
 Flags: W
@@ -45068,7 +45060,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni00B9
-Encoding: 185 185 718
+Encoding: 185 185 717
 GlifName: uni00B_9
 Width: 342
 Flags: W
@@ -45096,7 +45088,7 @@ EndSplineSet
 EndChar
 
 StartChar: ordmasculine
-Encoding: 186 186 719
+Encoding: 186 186 718
 GlifName: ordmasculine
 Width: 341
 Flags: W
@@ -45127,7 +45119,7 @@ EndSplineSet
 EndChar
 
 StartChar: onequarter
-Encoding: 188 188 720
+Encoding: 188 188 719
 GlifName: onequarter
 Width: 766
 Flags: W
@@ -45184,7 +45176,7 @@ EndSplineSet
 EndChar
 
 StartChar: onehalf
-Encoding: 189 189 721
+Encoding: 189 189 720
 GlifName: onehalf
 Width: 767
 Flags: W
@@ -45242,7 +45234,7 @@ EndSplineSet
 EndChar
 
 StartChar: threequarters
-Encoding: 190 190 722
+Encoding: 190 190 721
 GlifName: threequarters
 Width: 767
 Flags: W
@@ -45316,7 +45308,7 @@ EndSplineSet
 EndChar
 
 StartChar: questiondown
-Encoding: 191 191 723
+Encoding: 191 191 722
 GlifName: questiondown
 Width: 382
 Flags: W
@@ -45366,7 +45358,7 @@ EndSplineSet
 EndChar
 
 StartChar: Aacute
-Encoding: 193 193 724
+Encoding: 193 193 723
 GlifName: A_acute
 Width: 694
 Flags: W
@@ -45414,7 +45406,7 @@ EndSplineSet
 EndChar
 
 StartChar: Acircumflex
-Encoding: 194 194 725
+Encoding: 194 194 724
 GlifName: A_circumflex
 Width: 694
 Flags: W
@@ -45463,7 +45455,7 @@ EndSplineSet
 EndChar
 
 StartChar: Atilde
-Encoding: 195 195 726
+Encoding: 195 195 725
 GlifName: A_tilde
 Width: 694
 Flags: W
@@ -45515,7 +45507,7 @@ EndSplineSet
 EndChar
 
 StartChar: Adieresis
-Encoding: 196 196 727
+Encoding: 196 196 726
 GlifName: A_dieresis
 Width: 694
 Flags: W
@@ -45575,7 +45567,7 @@ EndSplineSet
 EndChar
 
 StartChar: Aring
-Encoding: 197 197 728
+Encoding: 197 197 727
 GlifName: A_ring
 Width: 694
 Flags: W
@@ -45635,7 +45627,7 @@ EndSplineSet
 EndChar
 
 StartChar: AE
-Encoding: 198 198 729
+Encoding: 198 198 728
 GlifName: A_E_
 Width: 871
 Flags: W
@@ -45704,7 +45696,7 @@ EndSplineSet
 EndChar
 
 StartChar: Igrave
-Encoding: 204 204 730
+Encoding: 204 204 729
 GlifName: I_grave
 Width: 347
 Flags: W
@@ -45741,7 +45733,7 @@ EndSplineSet
 EndChar
 
 StartChar: Iacute
-Encoding: 205 205 731
+Encoding: 205 205 730
 GlifName: I_acute
 Width: 347
 Flags: W
@@ -45778,7 +45770,7 @@ EndSplineSet
 EndChar
 
 StartChar: Icircumflex
-Encoding: 206 206 732
+Encoding: 206 206 731
 GlifName: I_circumflex
 Width: 347
 Flags: W
@@ -45816,7 +45808,7 @@ EndSplineSet
 EndChar
 
 StartChar: Eth
-Encoding: 208 208 733
+Encoding: 208 208 732
 GlifName: E_th
 Width: 741
 Flags: W
@@ -45861,7 +45853,7 @@ EndSplineSet
 EndChar
 
 StartChar: Ograve
-Encoding: 210 210 734
+Encoding: 210 210 733
 GlifName: O_grave
 Width: 750
 Flags: W
@@ -45899,7 +45891,7 @@ EndSplineSet
 EndChar
 
 StartChar: Oacute
-Encoding: 211 211 735
+Encoding: 211 211 734
 GlifName: O_acute
 Width: 750
 Flags: W
@@ -45937,7 +45929,7 @@ EndSplineSet
 EndChar
 
 StartChar: Otilde
-Encoding: 213 213 736
+Encoding: 213 213 735
 GlifName: O_tilde
 Width: 750
 Flags: W
@@ -45979,7 +45971,7 @@ EndSplineSet
 EndChar
 
 StartChar: multiply
-Encoding: 215 215 737
+Encoding: 215 215 736
 GlifName: multiply
 Width: 579
 Flags: W
@@ -46004,7 +45996,7 @@ EndSplineSet
 EndChar
 
 StartChar: Oslash
-Encoding: 216 216 738
+Encoding: 216 216 737
 GlifName: O_slash
 Width: 753
 Flags: W
@@ -46047,7 +46039,7 @@ EndSplineSet
 EndChar
 
 StartChar: Ugrave
-Encoding: 217 217 739
+Encoding: 217 217 738
 GlifName: U_grave
 Width: 735
 Flags: W
@@ -46095,7 +46087,7 @@ EndSplineSet
 EndChar
 
 StartChar: Uacute
-Encoding: 218 218 740
+Encoding: 218 218 739
 GlifName: U_acute
 Width: 735
 Flags: W
@@ -46143,7 +46135,7 @@ EndSplineSet
 EndChar
 
 StartChar: Ucircumflex
-Encoding: 219 219 741
+Encoding: 219 219 740
 GlifName: U_circumflex
 Width: 735
 Flags: W
@@ -46192,7 +46184,7 @@ EndSplineSet
 EndChar
 
 StartChar: Udieresis
-Encoding: 220 220 742
+Encoding: 220 220 741
 GlifName: U_dieresis
 Width: 735
 Flags: W
@@ -46252,7 +46244,7 @@ EndSplineSet
 EndChar
 
 StartChar: Yacute
-Encoding: 221 221 743
+Encoding: 221 221 742
 GlifName: Y_acute
 Width: 638
 Flags: W
@@ -46305,7 +46297,7 @@ EndSplineSet
 EndChar
 
 StartChar: germandbls
-Encoding: 223 223 744
+Encoding: 223 223 743
 GlifName: germandbls
 Width: 550
 Flags: W
@@ -46368,7 +46360,7 @@ EndSplineSet
 EndChar
 
 StartChar: aacute
-Encoding: 225 225 745
+Encoding: 225 225 744
 GlifName: aacute
 Width: 444
 Flags: W
@@ -46433,7 +46425,7 @@ EndSplineSet
 EndChar
 
 StartChar: acircumflex
-Encoding: 226 226 746
+Encoding: 226 226 745
 GlifName: acircumflex
 Width: 444
 Flags: W
@@ -46496,7 +46488,7 @@ EndSplineSet
 EndChar
 
 StartChar: atilde
-Encoding: 227 227 747
+Encoding: 227 227 746
 GlifName: atilde
 Width: 444
 Flags: W
@@ -46562,7 +46554,7 @@ EndSplineSet
 EndChar
 
 StartChar: adieresis
-Encoding: 228 228 748
+Encoding: 228 228 747
 GlifName: adieresis
 Width: 444
 Flags: W
@@ -46628,7 +46620,7 @@ EndSplineSet
 EndChar
 
 StartChar: aring
-Encoding: 229 229 749
+Encoding: 229 229 748
 GlifName: aring
 Width: 444
 Flags: W
@@ -46701,7 +46693,7 @@ EndSplineSet
 EndChar
 
 StartChar: ae
-Encoding: 230 230 750
+Encoding: 230 230 749
 GlifName: ae
 Width: 671
 Flags: W
@@ -46764,7 +46756,7 @@ EndSplineSet
 EndChar
 
 StartChar: igrave
-Encoding: 236 236 751
+Encoding: 236 236 750
 GlifName: igrave
 Width: 273
 Flags: W
@@ -46799,7 +46791,7 @@ EndSplineSet
 EndChar
 
 StartChar: iacute
-Encoding: 237 237 752
+Encoding: 237 237 751
 GlifName: iacute
 Width: 273
 Flags: W
@@ -46836,7 +46828,7 @@ EndSplineSet
 EndChar
 
 StartChar: icircumflex
-Encoding: 238 238 753
+Encoding: 238 238 752
 GlifName: icircumflex
 Width: 273
 Flags: W
@@ -46871,7 +46863,7 @@ EndSplineSet
 EndChar
 
 StartChar: eth
-Encoding: 240 240 754
+Encoding: 240 240 753
 GlifName: eth
 Width: 508
 Flags: W
@@ -46916,7 +46908,7 @@ EndSplineSet
 EndChar
 
 StartChar: ograve
-Encoding: 242 242 755
+Encoding: 242 242 754
 GlifName: ograve
 Width: 513
 Flags: W
@@ -46955,7 +46947,7 @@ EndSplineSet
 EndChar
 
 StartChar: oacute
-Encoding: 243 243 756
+Encoding: 243 243 755
 GlifName: oacute
 Width: 513
 Flags: W
@@ -46996,7 +46988,7 @@ EndSplineSet
 EndChar
 
 StartChar: otilde
-Encoding: 245 245 757
+Encoding: 245 245 756
 GlifName: otilde
 Width: 513
 Flags: W
@@ -47038,7 +47030,7 @@ EndSplineSet
 EndChar
 
 StartChar: divide
-Encoding: 247 247 758
+Encoding: 247 247 757
 GlifName: divide
 Width: 579
 Flags: W
@@ -47074,7 +47066,7 @@ EndSplineSet
 EndChar
 
 StartChar: oslash
-Encoding: 248 248 759
+Encoding: 248 248 758
 GlifName: oslash
 Width: 516
 Flags: W
@@ -47118,7 +47110,7 @@ EndSplineSet
 EndChar
 
 StartChar: ugrave
-Encoding: 249 249 760
+Encoding: 249 249 759
 GlifName: ugrave
 Width: 535
 Flags: W
@@ -47171,7 +47163,7 @@ EndSplineSet
 EndChar
 
 StartChar: uacute
-Encoding: 250 250 761
+Encoding: 250 250 760
 GlifName: uacute
 Width: 535
 Flags: W
@@ -47224,7 +47216,7 @@ EndSplineSet
 EndChar
 
 StartChar: ucircumflex
-Encoding: 251 251 762
+Encoding: 251 251 761
 GlifName: ucircumflex
 Width: 535
 Flags: W
@@ -47277,7 +47269,7 @@ EndSplineSet
 EndChar
 
 StartChar: udieresis
-Encoding: 252 252 763
+Encoding: 252 252 762
 GlifName: udieresis
 Width: 535
 Flags: W
@@ -47340,7 +47332,7 @@ EndSplineSet
 EndChar
 
 StartChar: yacute
-Encoding: 253 253 764
+Encoding: 253 253 763
 GlifName: yacute
 Width: 460
 Flags: W
@@ -47395,7 +47387,7 @@ EndSplineSet
 EndChar
 
 StartChar: ydieresis
-Encoding: 255 255 765
+Encoding: 255 255 764
 GlifName: ydieresis
 Width: 460
 Flags: W
@@ -47459,7 +47451,7 @@ EndSplineSet
 EndChar
 
 StartChar: dotlessi
-Encoding: 305 305 766
+Encoding: 305 305 765
 GlifName: dotlessi
 Width: 273
 Flags: W
@@ -47486,7 +47478,7 @@ EndSplineSet
 EndChar
 
 StartChar: OE
-Encoding: 338 338 767
+Encoding: 338 338 766
 GlifName: O_E_
 Width: 976
 Flags: W
@@ -47551,7 +47543,7 @@ EndSplineSet
 EndChar
 
 StartChar: oe
-Encoding: 339 339 768
+Encoding: 339 339 767
 GlifName: oe
 Width: 770
 Flags: W
@@ -47608,7 +47600,7 @@ EndSplineSet
 EndChar
 
 StartChar: circumflex
-Encoding: 710 710 769
+Encoding: 710 710 768
 GlifName: circumflex
 Width: 300
 Flags: W
@@ -47630,7 +47622,7 @@ EndSplineSet
 EndChar
 
 StartChar: ring
-Encoding: 730 730 770
+Encoding: 730 730 769
 GlifName: ring
 Width: 277
 Flags: W
@@ -47653,7 +47645,7 @@ EndSplineSet
 EndChar
 
 StartChar: tilde
-Encoding: 732 732 771
+Encoding: 732 732 770
 GlifName: tilde
 Width: 330
 Flags: W
@@ -47676,7 +47668,7 @@ EndSplineSet
 EndChar
 
 StartChar: guilsinglleft
-Encoding: 8249 8249 772
+Encoding: 8249 8249 771
 GlifName: guilsinglleft
 Width: 263
 Flags: W
@@ -47695,7 +47687,7 @@ EndSplineSet
 EndChar
 
 StartChar: guilsinglright
-Encoding: 8250 8250 773
+Encoding: 8250 8250 772
 GlifName: guilsinglright
 Width: 264
 Flags: W
@@ -47714,7 +47706,7 @@ EndSplineSet
 EndChar
 
 StartChar: fraction
-Encoding: 8260 8260 774
+Encoding: 8260 8260 773
 GlifName: fraction
 Width: 405
 Flags: W
@@ -47733,7 +47725,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2074
-Encoding: 8308 8308 775
+Encoding: 8308 8308 774
 GlifName: uni2074
 Width: 367
 Flags: W
@@ -47770,7 +47762,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2215
-Encoding: 8725 8725 776
+Encoding: 8725 8725 775
 GlifName: uni2215
 Width: 405
 Flags: W
@@ -47789,7 +47781,7 @@ EndSplineSet
 EndChar
 
 StartChar: minus
-Encoding: 8722 8722 777
+Encoding: 8722 8722 776
 GlifName: minus
 Width: 375
 Flags: W
@@ -47809,7 +47801,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0470.alt
-Encoding: 58304 58304 778
+Encoding: 58304 58304 777
 GlifName: uni0470.alt
 Width: 818
 Flags: W
