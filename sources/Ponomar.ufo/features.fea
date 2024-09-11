@@ -3481,7 +3481,7 @@ lookup kernContextualDiacriticKerning {
 	\uni2DE9 \uni2DEA \uni2DEB \uni2DEC \uni2DED \uni2DEE \uni2DEF \uni2DF0 
 	\uni2DF1 \uni2DF2 \uni2DF3 \uni2DF4 \uni2DF5 \uni2DF6 \uni2DF7 \uni2DF9 
 	\uni2DFA \uni2DFB ];
-    pos @cc34_match_1' @cc34_match_2' @cc34_match_3' ;
+    pos @cc34_match_1' @cc34_match_2' @cc34_match_3'<150 0 0 0>;
 } kernContextualDiacriticKerning;
 
 lookup mkmkMarktoMarklookup9 {
@@ -3631,6 +3631,15 @@ lookup mkmkMarktoMarklookup9 {
   pos mark [\uni0303 ] <anchor -207 732> mark @stacking;
 } mkmkMarktoMarklookup9;
 
+lookup CombiningLetterKerning {
+  lookupflag 0;
+    pos \uni2DE5 <150 0 0 0>;
+    pos \uni2DE6 <150 0 0 0>;
+    pos \uni2DE7 <150 0 0 0>;
+    pos \uni2DEA <150 0 0 0>;
+    pos \uni2DED <150 0 0 0>;
+} CombiningLetterKerning;
+
 feature kern {
 
  script DFLT;
@@ -3771,6 +3780,65 @@ feature mkmk {
      language dflt ;
       lookup mkmkMarktoMarklookup9;
 } mkmk;
+
+feature  RQD {
+
+ script DFLT;
+     language dflt ;
+      lookup CombiningLetterKerning;
+
+ script cyrl;
+     language dflt ;
+      lookup CombiningLetterKerning;
+     language BEL  exclude_dflt;
+      lookup CombiningLetterKerning;
+     language KAZ  exclude_dflt;
+      lookup CombiningLetterKerning;
+     language KHA  exclude_dflt;
+      lookup CombiningLetterKerning;
+     language KOP  exclude_dflt;
+      lookup CombiningLetterKerning;
+     language KOZ  exclude_dflt;
+      lookup CombiningLetterKerning;
+     language RSY  exclude_dflt;
+      lookup CombiningLetterKerning;
+     language UKR  exclude_dflt;
+      lookup CombiningLetterKerning;
+
+ script geor;
+     language dflt ;
+      lookup CombiningLetterKerning;
+
+ script latn;
+     language dflt ;
+      lookup CombiningLetterKerning;
+     language AFK  exclude_dflt;
+      lookup CombiningLetterKerning;
+     language DAN  exclude_dflt;
+      lookup CombiningLetterKerning;
+     language DEU  exclude_dflt;
+      lookup CombiningLetterKerning;
+     language ENG  exclude_dflt;
+      lookup CombiningLetterKerning;
+     language ESP  exclude_dflt;
+      lookup CombiningLetterKerning;
+     language FRA  exclude_dflt;
+      lookup CombiningLetterKerning;
+     language HUN  exclude_dflt;
+      lookup CombiningLetterKerning;
+     language IRI  exclude_dflt;
+      lookup CombiningLetterKerning;
+     language ITA  exclude_dflt;
+      lookup CombiningLetterKerning;
+     language NLD  exclude_dflt;
+      lookup CombiningLetterKerning;
+     language NOR  exclude_dflt;
+      lookup CombiningLetterKerning;
+     language PTG  exclude_dflt;
+      lookup CombiningLetterKerning;
+     language SVE  exclude_dflt;
+      lookup CombiningLetterKerning;
+}  RQD;
 #Mark attachment classes (defined in GDEF, used in lookupflags)
 
 @GDEF_Simple = [\.notdef \uni0020 \uni0021 \uni0022 \uni0027 \uni0028 \uni0029 
