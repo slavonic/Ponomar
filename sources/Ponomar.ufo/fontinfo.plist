@@ -13,9 +13,9 @@
     <key>versionMajor</key>
     <integer>1</integer>
     <key>versionMinor</key>
-    <integer>3</integer>
+    <integer>3001</integer>
     <key>copyright</key>
-    <string>Copyright 2013-2024 Aleksandr Andreev and Nikita Simmons (https://sci.ponomar.net/).</string>
+    <string>Copyright 2013-2024 The Ponomar Project Authors (https://github.com/slavonic/ponomar)</string>
     <key>unitsPerEm</key>
     <integer>1000</integer>
     <key>ascender</key>
@@ -118,7 +118,7 @@
       <integer>2</integer>
     </array>
     <key>postscriptFontName</key>
-    <string>Ponomar</string>
+    <string>Ponomar-Regular</string>
     <key>postscriptFullName</key>
     <string>Ponomar</string>
     <key>postscriptWeightName</key>

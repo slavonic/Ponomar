@@ -1,11 +1,10 @@
 SplineFontDB: 3.2
-FontName: Ponomar
+FontName: Ponomar-Regular
 FullName: Ponomar
 FamilyName: Ponomar
 Weight: Regular
-Copyright: Copyright 2013-2024 Aleksandr Andreev and Nikita Simmons (https://sci.ponomar.net/).
-FontLog: "Based on Hirmos UCS. Copyright (c) Vladislav V. Dorosh, Calmius Software, 2007-2008. All rights reserved. Used with permission.+AAoACgAK-Converted to Unicode 5.1 Yuri Shardt, as part of the Ponomar Project. +AAoACgAA-Additional characters, including the Typicon Symbols, added by Yuri Shardt in 2009 to 2011.+AAoACgAA-Additional help in correcting some of the characters was provided by Nikita Simmons in 2011, 2012.+AAoACgAA-Additional revisions by Aleksandr Andreev in 2012, including kerning support and other fine tuning.+AAoACgAA-Additional revisions by Nikita Simmons.+AAoACgAA-Renamed to Ponomar Unicode in 2015 and released."
-Version: 1.3.1
+Copyright: Copyright 2013-2024 The Ponomar Project Authors (https://github.com/slavonic/ponomar)
+Version: 1.3001
 ItalicAngle: 0
 UnderlinePosition: -39
 UnderlineWidth: 7
@@ -23,7 +22,7 @@ OS2Version: 2
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1187031600
-ModificationTime: 1725458924
+ModificationTime: 1726239423
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -1305,7 +1304,7 @@ NameList: Adobe Glyph List
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 666 18 7
+WinInfo: 288 18 7
 BeginPrivate: 9
 BlueValues 31 [-18 0 437 460 577 597 770 788]
 BlueScale 8 0.039625

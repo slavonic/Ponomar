@@ -1,0 +1,5 @@
+FontForge does not correctly export OT features to UFO
+If updating the UFO from FontForge, change
+the last line of the lookup kernContextualDiacriticKerning
+to read
+pos @cc34_match_1' @cc34_match_2' @cc34_match_3'<150 0 0 0>;
