@@ -25,41 +25,38 @@ Version 1.1. This license is available with a FAQ at
 
 ## Building the Fonts
 
-The font is built using fontmake and gftools post processing script. Tools are all python based, so it must be previously installed.
-
-To install all the Python tools into a virtualenv, do the following:
-
-From terminal:
+The font source is stored in a FontForge SFD file in the `sources/` directory. All modifications should be made in FontForge, resulting in an updated SFD file. This file is then converted to UFO format by running the convert script. From terminal:
 
 ```
-
 cd your/local/project/directory
-
-#once in the project folder create a virtual environment. 
-This step has to be done just once, the first time:
-
-python3 -m venv venv
-
-#activate the virtual environment
-
-source venv/bin/activate
-
-#install the required dependencies
-
-pip install -r requirements.txt
-
+./convert.sh
 ```
 
-Then run the this command:
+The font can then be built using fontmake and gftools by running:
 
 ```
-cd sources
-gftools builder config.yaml
+make build
 ```
 
-The fonts are supposed to build automatically in the repository 
-using GitHub Actions, but this does not work correctly 
-for some reason.
+Note that this requires Python and will install all of the necessary libraries and tools into a virtualenv at `venv/`.
+
+To delete the virtualenv and the results of the build, run:
+
+```
+make clean
+```
+
+To build the sample image the sits at the top of this README, run:
+
+```
+make images
+```
+
+The commands `make update` and `make update-project-template` update the repository structure and Python dependencies and should be run periodically.
+
+Google's master repository also had a GitHub workflow for building the fonts in the cloud on push, but this seems to always fail because of incorrect dependencies, so has been disabled. Instead, built binaries are stored on GitHub in the `fonts/` directory.
+
+This font has been added to [Google Fonts](https://fonts.google.com/specimen/Ponomar) and is available for use in Google Docs and other cloud-based software.
 
 ## Features
 
