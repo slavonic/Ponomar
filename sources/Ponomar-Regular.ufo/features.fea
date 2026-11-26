@@ -3664,7 +3664,7 @@ lookup kernContextualDiacriticKerning {
 	\uni2DE9 \uni2DEA \uni2DEB \uni2DEC \uni2DED \uni2DEE \uni2DEF \uni2DF0 
 	\uni2DF1 \uni2DF2 \uni2DF3 \uni2DF4 \uni2DF5 \uni2DF6 \uni2DF7 \uni2DF9 
 	\uni2DFA \uni2DFB ];
-    pos @cc34_match_1' @cc34_match_2' @cc34_match_3' ;
+    pos @cc34_match_1' @cc34_match_2' @cc34_match_3'<150 0 0 0> ;
 } kernContextualDiacriticKerning;
 
 lookup mkmkMarktoMarklookup9 {

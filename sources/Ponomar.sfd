@@ -3,8 +3,8 @@ FontName: Ponomar-Regular
 FullName: Ponomar
 FamilyName: Ponomar
 Weight: Regular
-Copyright: Copyright 2025 The Ponomar Project Authors (https://github.com/slavonic/ponomar)
-Version: 1.302
+Copyright: Copyright 2026 The Ponomar Project Authors (https://github.com/slavonic/ponomar)
+Version: 1.303
 ItalicAngle: 0
 UnderlinePosition: -39
 UnderlineWidth: 7
@@ -22,7 +22,7 @@ OS2Version: 2
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1187031600
-ModificationTime: 1738158788
+ModificationTime: 1795729487
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -11409,6 +11409,7 @@ SplineSet
  -123 550 -107 566 -107 581 c 0
 EndSplineSet
 Validated: 19457
+Position2: "Combining Letter Kerning-1" dx=150 dy=0 dh=0 dv=0
 Colour: ff00ff
 EndChar
 
@@ -11451,6 +11452,7 @@ SplineSet
  -272 673 -272 657 -272 639 c 0
 EndSplineSet
 Validated: 19457
+Position2: "Combining Letter Kerning-1" dx=150 dy=0 dh=0 dv=0
 Colour: ff00
 EndChar
 
@@ -11487,6 +11489,7 @@ SplineSet
  -297 540 -299 557 -299 577 c 0
 EndSplineSet
 Validated: 19457
+Position2: "Combining Letter Kerning-1" dx=150 dy=0 dh=0 dv=0
 Colour: ff00
 EndChar
 
@@ -11540,6 +11543,7 @@ SplineSet
  -257 723 l 1
 EndSplineSet
 Validated: 19457
+Position2: "Combining Letter Kerning-1" dx=150 dy=0 dh=0 dv=0
 Colour: ff00
 EndChar
 
@@ -11601,6 +11605,7 @@ SplineSet
  -186 726 l 1x70
 EndSplineSet
 Validated: 19457
+Position2: "Combining Letter Kerning-1" dx=150 dy=0 dh=0 dv=0
 Colour: ff00
 EndChar
 
@@ -11789,6 +11794,7 @@ SplineSet
  -299 538 -304 565 -305 602 c 1xb0
 EndSplineSet
 Validated: 19457
+Position2: "Combining Letter Kerning-1" dx=150 dy=0 dh=0 dv=0
 Colour: ff00
 EndChar
 
@@ -11835,6 +11841,7 @@ SplineSet
  -218 558 -224 593 -224 620 c 1
 EndSplineSet
 Validated: 19457
+Position2: "Combining Letter Kerning-1" dx=150 dy=0 dh=0 dv=0
 Colour: ff00
 EndChar
 
@@ -11901,6 +11908,7 @@ SplineSet
  -319 518 -327 519 -336 520 c 1x98
 EndSplineSet
 Validated: 19457
+Position2: "Combining Letter Kerning-1" dx=150 dy=0 dh=0 dv=0
 Colour: ff00ff
 EndChar
 
@@ -11935,6 +11943,7 @@ SplineSet
  -293 664 -293 663 -293 662 c 0
 EndSplineSet
 Validated: 19457
+Position2: "Combining Letter Kerning-1" dx=150 dy=0 dh=0 dv=0
 Colour: ff00
 EndChar
 
@@ -12004,6 +12013,7 @@ SplineSet
  -61 532 -71 525 -82 525 c 0x70
 EndSplineSet
 Validated: 19457
+Position2: "Combining Letter Kerning-1" dx=150 dy=0 dh=0 dv=0
 Colour: ff00
 EndChar
 
@@ -12062,6 +12072,7 @@ SplineSet
  -348 758 -340 758 -329 758 c 0x60
 EndSplineSet
 Validated: 19457
+Position2: "Combining Letter Kerning-1" dx=150 dy=0 dh=0 dv=0
 Colour: ff00
 EndChar
 
@@ -12104,6 +12115,7 @@ SplineSet
  -50 572 -47 546 -47 528 c 0xb8
 EndSplineSet
 Validated: 19457
+Position2: "Combining Letter Kerning-1" dx=150 dy=0 dh=0 dv=0
 Colour: ff00ff
 EndChar
 
@@ -12144,6 +12156,7 @@ SplineSet
  -151 523 -166 525 -174 525 c 0xe0
 EndSplineSet
 Validated: 19457
+Position2: "Combining Letter Kerning-1" dx=150 dy=0 dh=0 dv=0
 Colour: ff00ff
 EndChar
 
@@ -12187,6 +12200,7 @@ SplineSet
  -290 680 -270 680 -255 680 c 1xb8
 EndSplineSet
 Validated: 19457
+Position2: "Combining Letter Kerning-1" dx=150 dy=0 dh=0 dv=0
 Colour: ff00ff
 EndChar
 
@@ -12238,6 +12252,7 @@ SplineSet
  -148 665 -149 632 -149 605 c 0xb4
 EndSplineSet
 Validated: 19457
+Position2: "Combining Letter Kerning-1" dx=150 dy=0 dh=0 dv=0
 Colour: ff00ff
 EndChar
 
@@ -12298,6 +12313,7 @@ SplineSet
  -283 682 -288 698 -298 698 c 0
 EndSplineSet
 Validated: 19457
+Position2: "Combining Letter Kerning-1" dx=150 dy=0 dh=0 dv=0
 Colour: ff00
 EndChar
 
@@ -12356,6 +12372,7 @@ SplineSet
  69 547 66 535 66 526 c 0
 EndSplineSet
 Validated: 19457
+Position2: "Combining Letter Kerning-1" dx=150 dy=0 dh=0 dv=0
 Colour: ff00ff
 EndChar
 
@@ -12406,6 +12423,7 @@ SplineSet
  -387 610 -382 612 -379 616 c 0
 EndSplineSet
 Validated: 19457
+Position2: "Combining Letter Kerning-1" dx=150 dy=0 dh=0 dv=0
 Colour: ff00ff
 EndChar
 
@@ -12453,6 +12471,7 @@ SplineSet
  -174 623 -213 621 -213 587 c 0xd0
 EndSplineSet
 Validated: 19457
+Position2: "Combining Letter Kerning-1" dx=150 dy=0 dh=0 dv=0
 Colour: ff00ff
 EndChar
 
@@ -12502,6 +12521,7 @@ SplineSet
  -76 796 -59 829 -30 829 c 0
 EndSplineSet
 Validated: 19457
+Position2: "Combining Letter Kerning-1" dx=150 dy=0 dh=0 dv=0
 Colour: ff00ff
 EndChar
 
@@ -12566,6 +12586,7 @@ SplineSet
  -107 549 -105 555 -105 562 c 0
 EndSplineSet
 Validated: 19457
+Position2: "Combining Letter Kerning-1" dx=150 dy=0 dh=0 dv=0
 Colour: ff00ff
 EndChar
 
@@ -12617,6 +12638,7 @@ SplineSet
  -53 586 -47 628 -47 652 c 0
 EndSplineSet
 Validated: 19457
+Position2: "Combining Letter Kerning-1" dx=150 dy=0 dh=0 dv=0
 Colour: ff00ff
 EndChar
 
